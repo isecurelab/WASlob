@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>SLOB | Home</title>
+		
+		<meta charset="ISO-8859-1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="google-signin-client_id" content="453642410996-r67jqhkaiqs6lsqhcbqehglvvmcj30ds.apps.googleusercontent.com">
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/css/jasny-bootstrap.min.css">
+		
+		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/js/jasny-bootstrap.min.js"></script>
+		<script src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.16/angular.js"></script>
+		<script src="https://apis.google.com/js/platform.js" async defer></script>
+		
+		<script src="js/url.min.js"></script>
+		<script src="js/config.js"></script>
+		<script src="js/redditController.js"></script>
+		<script src="js/twitterController.js"></script>
+		<script src="js/searchAutocompleteController.js"></script>
+		<script src="js/authController.js"></script>
+		<script src = "js/FacebookController.js"></script>
+		
+		<style>
+			body {
+				background-image: url("img/bg.jpg");
+				background-size: cover;
+				background-position:fixed;
+			}
+			.ui-autocomplete {
+   				max-height: 600px;
+    			overflow-y: auto;   /* prevent horizontal scrollbar */
+    			overflow-x: hidden; /* add padding to account for vertical scrollbar */
+    			z-index:2000 !important;
+			}
+			#twitter_summary_container {
+				max-height: 400px;
+				overflow:auto;
+			}
+			.modal-body {
+  				max-height:600px;
+  			}
+  </style>
+		
+	</head>
+	<body onload="LoadFacebookData('#facebook_summary_container')">
+	
+	<nav id="ontologyMenu" class="navmenu navmenu-default navmenu-fixed-left offcanvas" role="navigation">
+<iframe src="ontologyTree.html" width="100%" height="100%"></iframe>
+</nav>
+		<div class="container">
+			<div class="row">
+				<div class="navbar navbar-default navbar-fixed-top">
+					<div class="container-fluid">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand" href="index.html"><span><img src="img/nsf.jpg" width="20px" height="20px"/></span>Security Learning by Ontology Browsing (SLOB)</a>
+						</div>
+						<div id="navbar" class="navbar-collapse collapse">
+							<form action="details.html">
+								<div class="input-group col-md-4 col-sm-4 nav navbar-nav navbar-left navbar-text">
+									<input id="searchField" name="q" class="form-control" type="text"/>
+									<span class="input-group-btn">
+										<button class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+									</span>
+								</div>
+							</form>
+							<ul class="nav navbar-nav navbar-right">
+							
+								<li><a href="#" title="Browse Ontology" data-toggle="offcanvas" data-target="#ontologyMenu" data-canvas="body">Browse</a></li>
+								<li><a href="about.html" title="Information about the SLOB tool">About</a></li>
+								<li class="dropdown">
+						        	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Links <span class="caret"></span></a>
+						        	<ul class="dropdown-menu">
+						        		<li><a href="http://soonaechun.org/iSecure/" title="Visit the iSecure homepage">iSecure</a></li>
+						          	</ul>
+						        </li>
+						        <li class="dropdown">
+						        	<span id="authProfileIconSignedOut"><div class="g-signin2" data-onsuccess="onSignIn"></div></span>
+						        	<span id="authProfileIconSignedIn"><img width="50px" id="authProfileIconImage" class="img-circle"/> <span id="authProfileIconEMID"></span></span></a>
+						        </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-4">
+					<a class="btn btn-primary btn-lg btn-block"  data-toggle="offcanvas" data-target="#ontologyMenu" data-canvas="body"><span class="glyphicon glyphicon-chevron-right"></span>&nbsp;Browse Ontology</a>
+					<a class="btn btn-primary btn-lg btn-block" href="about.html"><span class="glyphicon glyphicon-question-sign"></span>&nbsp;Help/About</a>
+					<div class="panel panel-default" id="loggedOutPanel">
+						<div class="panel-heading">You are not logged in</div>
+						<div class="panel-body">
+							<p>When you are logged in you will have access to saved articles/resources:</p>
+							<div class="g-signin2" data-onsuccess="onSignIn"></div>
+						</div>
+					</div>
+					<div class="panel panel-default" id="loggedInPanel">
+						<div class="panel-heading">Welcome back!</div>
+						<div class="panel-body">
+							<div class="row">
+								<div class="col-md-3 col-sm-3">
+									<img id="GUserImage" class="img-circle"/>
+								</div>
+								<div class="col-md-9 col-sm-9">
+									<div class="col-md-12" id="GUserName"></div>
+									<div class="col-md-12" id="GUserEmail"></div>
+									<div class="col-md-12"><a class="btn btn-default btn-block" onClick="signOut()">Logout</a></div>
+								</div>
+							</div>
+							<a href="saved.html">Saved Items</a>
+							
+							
+						</div>
+					</div>
+					
+				</div>
+				<div class="col-md-4">
+					<div class="panel panel-default" ng-app="redditTwitterApp" ng-controller="redditTwitterCtrl">
+						<div class="panel-heading">
+						Reddit - Trending tags
+						</div>
+						<div class="panel-body">
+							<div class="col-md-6 col-sm-6 col-xs-12" ng-repeat="red in reddit">
+								<div ng-show="redditLoaderVisible">
+									<img src='img/ajax-loader.gif' >
+								</div>
+								<ul><li><a ng-click="updTwitter(red.data.display_name)" href="#">{{red.data.display_name}}</a></li></ul>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							Trending Tweets
+						</div>
+						<div class="panel-body" id="twitter_summary_container">
+							Loading...
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="panel panel-default">
+						<div class="panel-heading">Popular Cyber Security Facebook pages</div>
+						<div class="panel-body" id = "facebook_summary_container" >
+							Loading...
+						</div>
+					</div>
+					<div class="panel panel-default">
+						<div class="panel-heading">Upcoming Cyber Security Conferences: DB World </div>
+						<div class="panel-body">
+							<iframe src="outputSubject.html" width="100%" height="100%" marginwidth="0" marginheight="0" frameborder="no" scrolling="yes">
+							</iframe>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<div class="modal fade bs-example-modal-lg" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Ontology Browser</h4>
+      </div>
+      <div class="modal-body">
+        <iframe src="ontologyTree.html" width="100%" height="700px"></iframe>
+      </div>
+      
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+		<script>
+			var loadGoogleLoginPanel = true;
+			initSearchAutocomplete("#searchField", "");
+			//reddit data is being processed by an AngularJS controller
+			loadTwitterData("_", "#twitter_summary_container");
+			
+		</script>
+	</body>
+</html>

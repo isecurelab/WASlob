@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>SLOB | Details</title>
+		
+		<meta charset="ISO-8859-1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="google-signin-client_id" content="453642410996-r67jqhkaiqs6lsqhcbqehglvvmcj30ds.apps.googleusercontent.com">
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/css/jasny-bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+		
+		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+		<script src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<script src="http://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.16/angular.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/js/jasny-bootstrap.min.js"></script>
+		<script src="https://apis.google.com/js/platform.js" async defer></script>
+		
+		<script src="js/url.min.js"></script>
+		<script src="js/config.js"></script>
+		<script src="js/searchAutocompleteController.js"></script>
+		<script src="js/descriptionController.js"></script>
+		<script src="js/googleImageController.js"></script>
+		<script src="js/articleController.js"></script>
+		<script src="js/slideShareController.js"></script>
+		<script src="js/youtubeController.js"></script>
+		<script src="js/goodrichBookController.js"></script>
+		<script src="js/googleBookController.js"></script>
+		<script src="js/twitterController.js"></script>
+		<script src="js/authController.js"></script>
+		
+		<style>
+			body {
+				background-image: url("img/bg.jpg");
+				background-size: cover;
+				background-position:fixed;
+			}
+			.ui-autocomplete {
+   				max-height: 600px;
+    			overflow-y: auto;   /* prevent horizontal scrollbar */
+    			overflow-x: hidden; /* add padding to account for vertical scrollbar */
+    			z-index:2000 !important;
+			}
+			#GoogImgContainer, #articleContainer, #videoContainer, #slideContainer, #googBookContainer, #twitterContainer {
+				overflow:auto;
+				height:300px;
+			}
+			#GoogImgContainer img {
+				cursor:pointer;
+			}
+			.btn div {
+				white-space:wrap;
+			}
+		</style>
+	</head>
+	<body>
+	<nav id="ontologyMenu" class="navmenu navmenu-default navmenu-fixed-left offcanvas" role="navigation">
+<iframe src="ontologyTree.html" width="100%" height="100%"></iframe>
+</nav>
+<div class="container">
+			<div class="row">
+				<div class="navbar navbar-default navbar-fixed-top">
+					<div class="container-fluid">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand" href="index.html"><span><img src="img/nsf.jpg" width="20px" height="20px"/></span>Security Learning by Ontology Browsing (SLOB) - <span id="classHeader"></span></a>
+						</div>
+						<div id="navbar" class="navbar-collapse collapse">
+							<form action="details.html">
+								<div class="input-group col-md-4 col-sm-4 nav navbar-nav navbar-left navbar-text">
+									<input id="searchField" name="q" class="form-control" type="text" placeholder="Loading Search..." disabled="true"/>
+									<span class="input-group-btn">
+										<button class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+									</span>
+								</div>
+							</form>
+							<ul class="nav navbar-nav navbar-right">
+								<li><a href="#" title="Browse Ontology" data-toggle="offcanvas" data-target="#ontologyMenu" data-canvas="body">Browse</a></li>
+								<li><a href="about.html" title="Information about the SLOB tool">About</a></li>
+								<li class="dropdown">
+						        	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Links <span class="caret"></span></a>
+						        	<ul class="dropdown-menu">
+						        		<li><a href="http://soonaechun.org/iSecure/" title="Visit the iSecure homepage">iSecure</a></li>
+						          	</ul>
+						        </li>
+						        <li>
+						        	<span id="authProfileIconSignedOut"><div class="g-signin2" data-onsuccess="onSignIn"></div></span>
+						        	<span id="authProfileIconSignedIn"><img width="50px" id="authProfileIconImage" class="img-circle"/> <span id="authProfileIconEMID"></span></span></a>
+						        </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-2">
+					<div class="panel panel-default">
+						<div class="panel-body">
+						<div id="DescProg"><img src='img/ajax-loader.gif' ></div>
+						<p id="desc"></p>
+						<p id="nistdef"></p>
+						<p id="sansdesc"></p>
+						<p><b>Superclass: </b> <span id="superclass"></span></p>
+						<p><b>DirectSubClass: </b> <span id="directsubclass"></span></p>
+						<p><b>EquivalentClass: </b> <span id="equivalentclass"></span> </p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-10">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<i class="fa fa-google"></i> Google Images
+								</div>
+								<div class="panel-body" id="GoogImgContainer">
+									<div class="col-md-12" id="GoogImgProg"><img src='img/ajax-loader.gif' ></div>
+								</div>
+								<div class="panel-footer">
+									<a class="btn btn-default" onclick="viewMore('GoogleImage')">View more</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Articles
+								</div>
+								<div class="panel-body" id="articleContainer">
+									<div class="col-md-12" id="articleProg"><img src='img/ajax-loader.gif' ></div>
+								</div>
+								<div class="panel-footer">
+									<a class="btn btn-default" onclick="viewMore('Article')">View more</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<i class="fa fa-youtube-play"></i> Youtube Videos
+								</div>
+								<div class="panel-body" id="videoContainer">
+									<div class="col-md-12" id="youtubeProg"><img src='img/ajax-loader.gif' ></div>
+								</div>
+								<div class="panel-footer">
+									<a class="btn btn-default" onclick="viewMore('Video')">View more</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<i class="fa fa-slideshare"></i> Slideshare Slides
+								</div>
+								<div class="panel-body" id="slideContainer">
+									<div class="col-md-12" id="slideshareProg"><img src='img/ajax-loader.gif' ></div>
+								</div>
+								<div class="panel-footer">
+									<a class="btn btn-default" onclick="viewMore('SlideShare')">View more</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="panel panel-default" ng-app="booksApp" ng-controller="booksCtrl" id="booksPanel">
+								<div class="panel-heading">
+									<i class="fa fa-google"></i>Books
+								</div>
+								<div class="panel-body" id="googBookContainer">
+									<div class="panel panel-default">
+									<div class="panel-heading" >Goodrich Results</div>
+										
+										<div class="panel-body" id="goodrichContainer">
+											<div class="col-md-12" id="goodrichProg"><img src='img/ajax-loader.gif' ></div>
+										</div>
+									</div>
+								
+									<div class="col-md-12" ng-show="bookLoaderVisible"><img src='img/ajax-loader.gif' ></div>
+									<div class="panel panel-default" ng-repeat="book in books|limitTo:5">
+										<div class="panel-heading" title="{{book.volumeInfo.title}}"><a href="{{book.volumeInfo.previewLink}}" target="_blank">{{book.volumeInfo.title|limitTo:40}}</a></div>
+										<div class="row">
+											<div class="col-md-3 col-sm-3"><img src="{{book.volumeInfo.imageLinks.smallThumbnail}}" width="100"/></div>
+											<div class="col-md-9">
+												<div class="col-md-12" ng-repeat="author in book.volumeInfo.authors"><span class='glyphicon glyphicon-user'></span>&nbsp;{{author}}</div>
+												<div class="col-md-12" title="{{book.volumeInfo.description}}">{{book.volumeInfo.description|limitTo:200}}</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="panel-footer">
+									<a class="btn btn-default" onclick="viewMore('Book')">View more</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Twitter
+								</div>
+								<div class="panel-body" id="twitterContainer">
+									
+								</div>
+								<div class="panel-footer">
+									<a class="btn btn-default" onclick="viewMore('Twitter')">View more</a>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<script>
+		var loadGoogleLoginPanel = false;
+		var q = $.url("?q");
+		//Multiword fix
+		var q_val = q.toLowerCase();
+		q_val = q_val.replace(new RegExp("_",'g')," ");
+		q_val = q_val.replace(new RegExp(" ",'g'),"+");
+		$(function() {
+			//alert(q);
+			q_title = q;
+			if (q.length>15) q_title = q.substring(0,15) + "...";
+			$("#classHeader").html(q_title);
+			$("#classHeader").attr("title", q);
+			initSearchAutocomplete("#searchField", "");
+			loadDescription(q);
+			loadGoogleImages(q_val);
+			loadArticles(q_val, "");
+			loadVideos(q_val, "", 1);
+			loadSlides(q_val, "");
+			angular.element($("#booksPanel")).scope().loadBooks(q_val, "");
+			loadGoodrichBooks(q);
+			loadTwitterData(q_val, "#twitterContainer");
+		});
+		function viewMore(a) {
+			if (a=="SlideShare") {
+				window.location = "more/slideshare.html?q=" + q_val;
+			} else if (a=="Video") {
+				window.location = "more/video.html?q=" + q_val;
+			} else if (a=="GoogleImage") {
+				window.location = "https://images.google.com/?q=" + q_val;
+			} else if (a=="Article") {
+				window.location = "more/article.html?q=" + q_val;
+			} else if (a=="Book") {
+				window.location = "more/book.html?q=" + q_val;
+			} else if (a=="Twitter") {
+				window.location = "http://www.twitter.com/search?q=" + q_val;
+			}
+		}
+		</script>
+</body>
+</html>

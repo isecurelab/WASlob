@@ -1,0 +1,6636 @@
+{
+"key":"x3138",
+"isFolder":{"opened":true},
+"title":"Thing",
+"children":[{
+"key":"x2252",
+"isFolder":{"opened":true},
+"title":"Asset",
+"children":[{
+"key":"x1763",
+"isFolder":{"opened":true},
+"title":"Technology",
+"children":[{
+"key":"x1570",
+"isFolder":{"opened":false},
+"title":"Basic Input/ Output System"
+}, {
+"key":"x1571",
+"isFolder":{"opened":false},
+"title":"Mocmex"
+}, {
+"key":"x1575",
+"isFolder":{"opened":true},
+"title":"Algorithm",
+"children":[{
+"key":"x1572",
+"isFolder":{"opened":false},
+"title":"Open Shortest Path First"
+}, {
+"key":"x1573",
+"isFolder":{"opened":false},
+"title":"Distance Vector"
+}, {
+"key":"x1574",
+"isFolder":{"opened":false},
+"title":"Spilt Horizon"
+}]
+}, {
+"key":"x1578",
+"isFolder":{"opened":true},
+"title":"Tool",
+"children":[{
+"key":"x1576",
+"isFolder":{"opened":false},
+"title":"Traceroute"
+}, {
+"key":"x1577",
+"isFolder":{"opened":false},
+"title":"Dump Sec"
+}]
+}, {
+"key":"x1579",
+"isFolder":{"opened":false},
+"title":"Virtual Machine"
+}, {
+"key":"x1645",
+"isFolder":{"opened":true},
+"title":"Data",
+"children":[{
+"key":"x1580",
+"isFolder":{"opened":false},
+"title":"Inference Attack"
+}, {
+"key":"x1581",
+"isFolder":{"opened":false},
+"title":"Data Protection Directive"
+}, {
+"key":"x1582",
+"isFolder":{"opened":false},
+"title":"Database Security"
+}, {
+"key":"x1583",
+"isFolder":{"opened":false},
+"title":"Binary Code"
+}, {
+"key":"x1584",
+"isFolder":{"opened":false},
+"title":"Sensitive  Information"
+}, {
+"key":"x1610",
+"isFolder":{"opened":true},
+"title":"Stationary Data",
+"children":[{
+"key":"x1604",
+"isFolder":{"opened":true},
+"title":"Data On Non  Volatile Media",
+"children":[{
+"key":"x1603",
+"isFolder":{"opened":true},
+"title":"File",
+"children":[{
+"key":"x1585",
+"isFolder":{"opened":false},
+"title":"Passport"
+}, {
+"key":"x1586",
+"isFolder":{"opened":false},
+"title":"Symbolic Links"
+}, {
+"key":"x1587",
+"isFolder":{"opened":false},
+"title":"Filesystem"
+}, {
+"key":"x1588",
+"isFolder":{"opened":false},
+"title":"Back Orifice"
+}, {
+"key":"x1589",
+"isFolder":{"opened":false},
+"title":"Database Data File"
+}, {
+"key":"x1591",
+"isFolder":{"opened":true},
+"title":"FTP",
+"children":[{
+"key":"x1590",
+"isFolder":{"opened":false},
+"title":"SFTP"
+}]
+}, {
+"key":"x1592",
+"isFolder":{"opened":false},
+"title":"Encrypting File System"
+}, {
+"key":"x1594",
+"isFolder":{"opened":true},
+"title":"Program File",
+"children":[{
+"key":"x1593",
+"isFolder":{"opened":false},
+"title":"Non  Printable  Character"
+}]
+}, {
+"key":"x1595",
+"isFolder":{"opened":false},
+"title":"Backup File"
+}, {
+"key":"x1596",
+"isFolder":{"opened":false},
+"title":"Program Source Code File"
+}, {
+"key":"x1598",
+"isFolder":{"opened":true},
+"title":"File Transfer Protocol",
+"children":[{
+"key":"x1597",
+"isFolder":{"opened":false},
+"title":"SFTP"
+}]
+}, {
+"key":"x1599",
+"isFolder":{"opened":false},
+"title":"Configuration File"
+}, {
+"key":"x1600",
+"isFolder":{"opened":false},
+"title":"Gnutella"
+}, {
+"key":"x1602",
+"isFolder":{"opened":true},
+"title":"File Descriptors",
+"children":[{
+"key":"x1601",
+"isFolder":{"opened":false},
+"title":"File Descriptor Leak"
+}]
+}]
+}]
+}, {
+"key":"x1609",
+"isFolder":{"opened":true},
+"title":"Data On Volatile Media",
+"children":[{
+"key":"x1607",
+"isFolder":{"opened":true},
+"title":"Stack",
+"children":[{
+"key":"x1605",
+"isFolder":{"opened":false},
+"title":"Stack Guard"
+}, {
+"key":"x1606",
+"isFolder":{"opened":false},
+"title":"Stack Smashing"
+}]
+}, {
+"key":"x1608",
+"isFolder":{"opened":false},
+"title":"Heap"
+}]
+}]
+}, {
+"key":"x1611",
+"isFolder":{"opened":false},
+"title":"Data  Custodian"
+}, {
+"key":"x1620",
+"isFolder":{"opened":true},
+"title":"Data In Transit",
+"children":[{
+"key":"x1613",
+"isFolder":{"opened":true},
+"title":"Network Layer Packet",
+"children":[{
+"key":"x1612",
+"isFolder":{"opened":false},
+"title":"I P Packet"
+}]
+}, {
+"key":"x1616",
+"isFolder":{"opened":true},
+"title":"Transport Layer Packet",
+"children":[{
+"key":"x1614",
+"isFolder":{"opened":false},
+"title":"U D P Packet"
+}, {
+"key":"x1615",
+"isFolder":{"opened":false},
+"title":"T C P Packet"
+}]
+}, {
+"key":"x1619",
+"isFolder":{"opened":true},
+"title":"Application Layer Packet",
+"children":[{
+"key":"x1617",
+"isFolder":{"opened":false},
+"title":"E  Mail"
+}, {
+"key":"x1618",
+"isFolder":{"opened":false},
+"title":"H T T P Data"
+}]
+}]
+}, {
+"key":"x1642",
+"isFolder":{"opened":true},
+"title":"Electronic Token",
+"children":[{
+"key":"x1625",
+"isFolder":{"opened":true},
+"title":"Message Digest Data",
+"children":[{
+"key":"x1623",
+"isFolder":{"opened":true},
+"title":"Digital Signature Data",
+"children":[{
+"key":"x1622",
+"isFolder":{"opened":true},
+"title":"Certificate Data",
+"children":[{
+"key":"x1621",
+"isFolder":{"opened":false},
+"title":"X.509 Certificate Data"
+}]
+}]
+}, {
+"key":"x1624",
+"isFolder":{"opened":false},
+"title":"Message Authentication Code Data"
+}]
+}, {
+"key":"x1630",
+"isFolder":{"opened":true},
+"title":"Checksum Data",
+"children":[{
+"key":"x1628",
+"isFolder":{"opened":true},
+"title":"Digital Signature Data",
+"children":[{
+"key":"x1627",
+"isFolder":{"opened":true},
+"title":"Certificate Data",
+"children":[{
+"key":"x1626",
+"isFolder":{"opened":false},
+"title":"X.509 Certificate Data"
+}]
+}]
+}, {
+"key":"x1629",
+"isFolder":{"opened":false},
+"title":"Message Authentication Code Data"
+}]
+}, {
+"key":"x1634",
+"isFolder":{"opened":true},
+"title":"Password",
+"children":[{
+"key":"x1631",
+"isFolder":{"opened":false},
+"title":"Password  Authentication  Protocol"
+}, {
+"key":"x1632",
+"isFolder":{"opened":false},
+"title":"One  Time Password"
+}, {
+"key":"x1633",
+"isFolder":{"opened":false},
+"title":"Escrow  Passwords"
+}]
+}, {
+"key":"x1638",
+"isFolder":{"opened":true},
+"title":"Encryption Key",
+"children":[{
+"key":"x1635",
+"isFolder":{"opened":false},
+"title":"Public Key"
+}, {
+"key":"x1636",
+"isFolder":{"opened":false},
+"title":"Private Key"
+}, {
+"key":"x1637",
+"isFolder":{"opened":false},
+"title":"Symmetric Key"
+}]
+}, {
+"key":"x1639",
+"isFolder":{"opened":false},
+"title":"Login Name"
+}, {
+"key":"x1641",
+"isFolder":{"opened":true},
+"title":"Cookie",
+"children":[{
+"key":"x1640",
+"isFolder":{"opened":false},
+"title":"Third Party Cookies"
+}]
+}]
+}, {
+"key":"x1643",
+"isFolder":{"opened":false},
+"title":"Octet"
+}, {
+"key":"x1644",
+"isFolder":{"opened":false},
+"title":"Byte"
+}]
+}, {
+"key":"x1646",
+"isFolder":{"opened":false},
+"title":"Proprietary  Information"
+}, {
+"key":"x1653",
+"isFolder":{"opened":true},
+"title":"Software",
+"children":[{
+"key":"x1647",
+"isFolder":{"opened":false},
+"title":"Browser"
+}, {
+"key":"x1648",
+"isFolder":{"opened":false},
+"title":"Echo  Reply"
+}, {
+"key":"x1649",
+"isFolder":{"opened":false},
+"title":"Echo  Request"
+}, {
+"key":"x1650",
+"isFolder":{"opened":false},
+"title":"Data  Mining"
+}, {
+"key":"x1651",
+"isFolder":{"opened":false},
+"title":"State  Machine"
+}, {
+"key":"x1652",
+"isFolder":{"opened":false},
+"title":"Inetd"
+}]
+}, {
+"key":"x1654",
+"isFolder":{"opened":false},
+"title":"BIOS"
+}, {
+"key":"x1712",
+"isFolder":{"opened":true},
+"title":"Network",
+"children":[{
+"key":"x1655",
+"isFolder":{"opened":false},
+"title":"Synchronization"
+}, {
+"key":"x1656",
+"isFolder":{"opened":false},
+"title":"Network Discovery"
+}, {
+"key":"x1657",
+"isFolder":{"opened":false},
+"title":"Tunnel"
+}, {
+"key":"x1658",
+"isFolder":{"opened":false},
+"title":"Penetration Test"
+}, {
+"key":"x1659",
+"isFolder":{"opened":false},
+"title":"Intranet"
+}, {
+"key":"x1660",
+"isFolder":{"opened":false},
+"title":"Forward  Proxy"
+}, {
+"key":"x1661",
+"isFolder":{"opened":false},
+"title":"Ad Hoc Network"
+}, {
+"key":"x1662",
+"isFolder":{"opened":false},
+"title":"Broadcast  Address"
+}, {
+"key":"x1663",
+"isFolder":{"opened":false},
+"title":"Sality"
+}, {
+"key":"x1679",
+"isFolder":{"opened":true},
+"title":"Network  Protocol",
+"children":[{
+"key":"x1664",
+"isFolder":{"opened":false},
+"title":"Unicast"
+}, {
+"key":"x1665",
+"isFolder":{"opened":false},
+"title":"Preamble"
+}, {
+"key":"x1666",
+"isFolder":{"opened":false},
+"title":"Wireless  Application  Protocol"
+}, {
+"key":"x1675",
+"isFolder":{"opened":true},
+"title":"TCP",
+"children":[{
+"key":"x1667",
+"isFolder":{"opened":false},
+"title":"T C P  Half  Open  Scan"
+}, {
+"key":"x1668",
+"isFolder":{"opened":false},
+"title":"A C K Piggybacking"
+}, {
+"key":"x1669",
+"isFolder":{"opened":false},
+"title":"T C P  Wrapper"
+}, {
+"key":"x1670",
+"isFolder":{"opened":false},
+"title":"T C P Dump"
+}, {
+"key":"x1671",
+"isFolder":{"opened":false},
+"title":"TCP/IP"
+}, {
+"key":"x1672",
+"isFolder":{"opened":false},
+"title":"Exponential  Backoff  Algorithm"
+}, {
+"key":"x1673",
+"isFolder":{"opened":false},
+"title":"T C P  Fingerprinting"
+}, {
+"key":"x1674",
+"isFolder":{"opened":false},
+"title":"T C P  Full  Open  Scan"
+}]
+}, {
+"key":"x1676",
+"isFolder":{"opened":false},
+"title":"Packet  Switched  Network"
+}, {
+"key":"x1677",
+"isFolder":{"opened":false},
+"title":"Broadcast"
+}, {
+"key":"x1678",
+"isFolder":{"opened":false},
+"title":"TELNET"
+}]
+}, {
+"key":"x1680",
+"isFolder":{"opened":false},
+"title":"Trunking"
+}, {
+"key":"x1681",
+"isFolder":{"opened":false},
+"title":"Subnet  Mask"
+}, {
+"key":"x1682",
+"isFolder":{"opened":false},
+"title":"Switched  Network"
+}, {
+"key":"x1683",
+"isFolder":{"opened":false},
+"title":"Physical Layer"
+}, {
+"key":"x1684",
+"isFolder":{"opened":false},
+"title":"ARPANET"
+}, {
+"key":"x1685",
+"isFolder":{"opened":false},
+"title":"Network Topology"
+}, {
+"key":"x1686",
+"isFolder":{"opened":false},
+"title":"Switch"
+}, {
+"key":"x1687",
+"isFolder":{"opened":false},
+"title":"Reverse  Proxy"
+}, {
+"key":"x1688",
+"isFolder":{"opened":false},
+"title":"Circuit  Switched  Network"
+}, {
+"key":"x1690",
+"isFolder":{"opened":true},
+"title":"Port",
+"children":[{
+"key":"x1689",
+"isFolder":{"opened":false},
+"title":"Trusted  Ports"
+}]
+}, {
+"key":"x1691",
+"isFolder":{"opened":false},
+"title":"A R P Spoofing"
+}, {
+"key":"x1692",
+"isFolder":{"opened":false},
+"title":"Dynamic  Routing  Protocol"
+}, {
+"key":"x1694",
+"isFolder":{"opened":true},
+"title":"Botnet",
+"children":[{
+"key":"x1693",
+"isFolder":{"opened":false},
+"title":"Fast  Flux"
+}]
+}, {
+"key":"x1695",
+"isFolder":{"opened":false},
+"title":"Store And  Forward"
+}, {
+"key":"x1696",
+"isFolder":{"opened":false},
+"title":"Network  Mapping"
+}, {
+"key":"x1697",
+"isFolder":{"opened":false},
+"title":"Wireless Network"
+}, {
+"key":"x1698",
+"isFolder":{"opened":false},
+"title":"Multiplexing"
+}, {
+"key":"x1699",
+"isFolder":{"opened":false},
+"title":"Untrusted Network"
+}, {
+"key":"x1700",
+"isFolder":{"opened":false},
+"title":"Wired Network"
+}, {
+"key":"x1701",
+"isFolder":{"opened":false},
+"title":"Share"
+}, {
+"key":"x1702",
+"isFolder":{"opened":false},
+"title":"Sub  Network"
+}, {
+"key":"x1703",
+"isFolder":{"opened":false},
+"title":"Simple  Network  Management  Protocol"
+}, {
+"key":"x1704",
+"isFolder":{"opened":false},
+"title":"Proxy  Server"
+}, {
+"key":"x1705",
+"isFolder":{"opened":false},
+"title":"T C P Reset Attack"
+}, {
+"key":"x1706",
+"isFolder":{"opened":false},
+"title":"Stateful  Inspection"
+}, {
+"key":"x1707",
+"isFolder":{"opened":false},
+"title":"Multi  Homed"
+}, {
+"key":"x1708",
+"isFolder":{"opened":false},
+"title":"Ping Sweeping"
+}, {
+"key":"x1709",
+"isFolder":{"opened":false},
+"title":"Domain  Name"
+}, {
+"key":"x1710",
+"isFolder":{"opened":false},
+"title":"S Y N Cookies"
+}, {
+"key":"x1711",
+"isFolder":{"opened":false},
+"title":"Trusted Network"
+}]
+}, {
+"key":"x1713",
+"isFolder":{"opened":false},
+"title":"Encapsulation"
+}, {
+"key":"x1714",
+"isFolder":{"opened":false},
+"title":"Reverse  Engineering"
+}, {
+"key":"x1715",
+"isFolder":{"opened":false},
+"title":"Security Accounts Manager"
+}, {
+"key":"x1716",
+"isFolder":{"opened":false},
+"title":"System Call"
+}, {
+"key":"x1717",
+"isFolder":{"opened":false},
+"title":"SAM"
+}, {
+"key":"x1718",
+"isFolder":{"opened":false},
+"title":"Safe"
+}, {
+"key":"x1719",
+"isFolder":{"opened":false},
+"title":"Computer Forensics"
+}, {
+"key":"x1720",
+"isFolder":{"opened":false},
+"title":"Voting Machine"
+}, {
+"key":"x1723",
+"isFolder":{"opened":true},
+"title":"Process",
+"children":[{
+"key":"x1721",
+"isFolder":{"opened":false},
+"title":"Reputation Systems"
+}, {
+"key":"x1722",
+"isFolder":{"opened":false},
+"title":"Aliasing"
+}]
+}, {
+"key":"x1724",
+"isFolder":{"opened":false},
+"title":"Kee Loq"
+}, {
+"key":"x1760",
+"isFolder":{"opened":true},
+"title":"Hardware",
+"children":[{
+"key":"x1725",
+"isFolder":{"opened":false},
+"title":"Straight  Through  Cable"
+}, {
+"key":"x1726",
+"isFolder":{"opened":false},
+"title":"Trusted Platform Module"
+}, {
+"key":"x1728",
+"isFolder":{"opened":true},
+"title":"Harddisk",
+"children":[{
+"key":"x1727",
+"isFolder":{"opened":false},
+"title":"Partitions"
+}]
+}, {
+"key":"x1729",
+"isFolder":{"opened":false},
+"title":"TPM"
+}, {
+"key":"x1730",
+"isFolder":{"opened":false},
+"title":"Bridge"
+}, {
+"key":"x1736",
+"isFolder":{"opened":true},
+"title":"Security Hardware",
+"children":[{
+"key":"x1731",
+"isFolder":{"opened":false},
+"title":"Dongle"
+}, {
+"key":"x1732",
+"isFolder":{"opened":false},
+"title":"Physical Security"
+}, {
+"key":"x1733",
+"isFolder":{"opened":false},
+"title":"Smart Card"
+}, {
+"key":"x1734",
+"isFolder":{"opened":false},
+"title":"Encryption Hardware"
+}, {
+"key":"x1735",
+"isFolder":{"opened":false},
+"title":"Degausser"
+}]
+}, {
+"key":"x1737",
+"isFolder":{"opened":false},
+"title":"Open Design"
+}, {
+"key":"x1738",
+"isFolder":{"opened":false},
+"title":"I Pad"
+}, {
+"key":"x1739",
+"isFolder":{"opened":false},
+"title":"Crossover  Cable"
+}, {
+"key":"x1757",
+"isFolder":{"opened":true},
+"title":"Host",
+"children":[{
+"key":"x1754",
+"isFolder":{"opened":true},
+"title":"Networked Host",
+"children":[{
+"key":"x1740",
+"isFolder":{"opened":false},
+"title":"Client Host"
+}, {
+"key":"x1741",
+"isFolder":{"opened":false},
+"title":"Host On Internet"
+}, {
+"key":"x1742",
+"isFolder":{"opened":false},
+"title":"Host On Wireless Network"
+}, {
+"key":"x1743",
+"isFolder":{"opened":false},
+"title":"Server Host"
+}, {
+"key":"x1745",
+"isFolder":{"opened":true},
+"title":"Host On Intranet",
+"children":[{
+"key":"x1744",
+"isFolder":{"opened":false},
+"title":"Local Host"
+}]
+}, {
+"key":"x1746",
+"isFolder":{"opened":false},
+"title":"Host On Wired Network"
+}, {
+"key":"x1752",
+"isFolder":{"opened":true},
+"title":"Router",
+"children":[{
+"key":"x1747",
+"isFolder":{"opened":false},
+"title":"Forward  Lookup"
+}, {
+"key":"x1748",
+"isFolder":{"opened":false},
+"title":"Filtering  Router"
+}, {
+"key":"x1749",
+"isFolder":{"opened":false},
+"title":"Static  Routing"
+}, {
+"key":"x1750",
+"isFolder":{"opened":false},
+"title":"Wireless Access Point"
+}, {
+"key":"x1751",
+"isFolder":{"opened":false},
+"title":"Routing  Loop"
+}]
+}, {
+"key":"x1753",
+"isFolder":{"opened":false},
+"title":"Bastion Host"
+}]
+}, {
+"key":"x1755",
+"isFolder":{"opened":false},
+"title":"Host Enumeration"
+}, {
+"key":"x1756",
+"isFolder":{"opened":false},
+"title":"Unconnected Host"
+}]
+}, {
+"key":"x1758",
+"isFolder":{"opened":false},
+"title":"CPU"
+}, {
+"key":"x1759",
+"isFolder":{"opened":false},
+"title":"T1,_T3"
+}]
+}, {
+"key":"x1761",
+"isFolder":{"opened":false},
+"title":"VM"
+}, {
+"key":"x1762",
+"isFolder":{"opened":false},
+"title":"Magnetic Stripe Card"
+}]
+}, {
+"key":"x1799",
+"isFolder":{"opened":true},
+"title":"Credential",
+"children":[{
+"key":"x1773",
+"isFolder":{"opened":true},
+"title":"Biometric Token",
+"children":[{
+"key":"x1769",
+"isFolder":{"opened":true},
+"title":"Physical Biometric Credential",
+"children":[{
+"key":"x1764",
+"isFolder":{"opened":false},
+"title":"Facial Pattern"
+}, {
+"key":"x1765",
+"isFolder":{"opened":false},
+"title":"Iris"
+}, {
+"key":"x1766",
+"isFolder":{"opened":false},
+"title":"Retina"
+}, {
+"key":"x1767",
+"isFolder":{"opened":false},
+"title":"Fingerprint"
+}, {
+"key":"x1768",
+"isFolder":{"opened":false},
+"title":"Hand Measurement"
+}]
+}, {
+"key":"x1772",
+"isFolder":{"opened":true},
+"title":"Behavioural Biometric Credential",
+"children":[{
+"key":"x1770",
+"isFolder":{"opened":false},
+"title":"Voice"
+}, {
+"key":"x1771",
+"isFolder":{"opened":false},
+"title":"Gait"
+}]
+}]
+}, {
+"key":"x1776",
+"isFolder":{"opened":true},
+"title":"Physical Token",
+"children":[{
+"key":"x1774",
+"isFolder":{"opened":false},
+"title":"Dongle"
+}, {
+"key":"x1775",
+"isFolder":{"opened":false},
+"title":"Smart Card"
+}]
+}, {
+"key":"x1798",
+"isFolder":{"opened":true},
+"title":"Electronic Token",
+"children":[{
+"key":"x1781",
+"isFolder":{"opened":true},
+"title":"Message Digest Data",
+"children":[{
+"key":"x1779",
+"isFolder":{"opened":true},
+"title":"Digital Signature Data",
+"children":[{
+"key":"x1778",
+"isFolder":{"opened":true},
+"title":"Certificate Data",
+"children":[{
+"key":"x1777",
+"isFolder":{"opened":false},
+"title":"X.509 Certificate Data"
+}]
+}]
+}, {
+"key":"x1780",
+"isFolder":{"opened":false},
+"title":"Message Authentication Code Data"
+}]
+}, {
+"key":"x1786",
+"isFolder":{"opened":true},
+"title":"Checksum Data",
+"children":[{
+"key":"x1784",
+"isFolder":{"opened":true},
+"title":"Digital Signature Data",
+"children":[{
+"key":"x1783",
+"isFolder":{"opened":true},
+"title":"Certificate Data",
+"children":[{
+"key":"x1782",
+"isFolder":{"opened":false},
+"title":"X.509 Certificate Data"
+}]
+}]
+}, {
+"key":"x1785",
+"isFolder":{"opened":false},
+"title":"Message Authentication Code Data"
+}]
+}, {
+"key":"x1790",
+"isFolder":{"opened":true},
+"title":"Password",
+"children":[{
+"key":"x1787",
+"isFolder":{"opened":false},
+"title":"Password  Authentication  Protocol"
+}, {
+"key":"x1788",
+"isFolder":{"opened":false},
+"title":"One  Time Password"
+}, {
+"key":"x1789",
+"isFolder":{"opened":false},
+"title":"Escrow  Passwords"
+}]
+}, {
+"key":"x1794",
+"isFolder":{"opened":true},
+"title":"Encryption Key",
+"children":[{
+"key":"x1791",
+"isFolder":{"opened":false},
+"title":"Public Key"
+}, {
+"key":"x1792",
+"isFolder":{"opened":false},
+"title":"Private Key"
+}, {
+"key":"x1793",
+"isFolder":{"opened":false},
+"title":"Symmetric Key"
+}]
+}, {
+"key":"x1795",
+"isFolder":{"opened":false},
+"title":"Login Name"
+}, {
+"key":"x1797",
+"isFolder":{"opened":true},
+"title":"Cookie",
+"children":[{
+"key":"x1796",
+"isFolder":{"opened":false},
+"title":"Third Party Cookies"
+}]
+}]
+}]
+}, {
+"key":"x1800",
+"isFolder":{"opened":false},
+"title":"Configuration  Management"
+}, {
+"key":"x2243",
+"isFolder":{"opened":true},
+"title":"Countermeasure",
+"children":[{
+"key":"x1801",
+"isFolder":{"opened":false},
+"title":"Malware Countermeasures"
+}, {
+"key":"x1802",
+"isFolder":{"opened":false},
+"title":"Memory Protection"
+}, {
+"key":"x1803",
+"isFolder":{"opened":false},
+"title":"Polyinstantiation"
+}, {
+"key":"x1804",
+"isFolder":{"opened":false},
+"title":"Patch"
+}, {
+"key":"x1805",
+"isFolder":{"opened":false},
+"title":"Honey Pot"
+}, {
+"key":"x1806",
+"isFolder":{"opened":false},
+"title":"Source Code Analysis"
+}, {
+"key":"x1812",
+"isFolder":{"opened":true},
+"title":"Security Hardware",
+"children":[{
+"key":"x1807",
+"isFolder":{"opened":false},
+"title":"Dongle"
+}, {
+"key":"x1808",
+"isFolder":{"opened":false},
+"title":"Physical Security"
+}, {
+"key":"x1809",
+"isFolder":{"opened":false},
+"title":"Smart Card"
+}, {
+"key":"x1810",
+"isFolder":{"opened":false},
+"title":"Encryption Hardware"
+}, {
+"key":"x1811",
+"isFolder":{"opened":false},
+"title":"Degausser"
+}]
+}, {
+"key":"x1830",
+"isFolder":{"opened":true},
+"title":"Login System",
+"children":[{
+"key":"x1824",
+"isFolder":{"opened":true},
+"title":"Biometric Authentication System",
+"children":[{
+"key":"x1815",
+"isFolder":{"opened":true},
+"title":"Behavioural Biometric Recognition",
+"children":[{
+"key":"x1813",
+"isFolder":{"opened":false},
+"title":"Gait Recognition"
+}, {
+"key":"x1814",
+"isFolder":{"opened":false},
+"title":"Voice Recognition"
+}]
+}, {
+"key":"x1822",
+"isFolder":{"opened":true},
+"title":"Physical Biometric Recognition",
+"children":[{
+"key":"x1817",
+"isFolder":{"opened":true},
+"title":"Facial Pattern Recognition",
+"children":[{
+"key":"x1816",
+"isFolder":{"opened":false},
+"title":"Pretexting"
+}]
+}, {
+"key":"x1818",
+"isFolder":{"opened":false},
+"title":"Hand Measurement Recognition"
+}, {
+"key":"x1819",
+"isFolder":{"opened":false},
+"title":"Fingerprint Recognition"
+}, {
+"key":"x1820",
+"isFolder":{"opened":false},
+"title":"Iris Recognition"
+}, {
+"key":"x1821",
+"isFolder":{"opened":false},
+"title":"Retina Recognition"
+}]
+}, {
+"key":"x1823",
+"isFolder":{"opened":false},
+"title":"Biometric"
+}]
+}, {
+"key":"x1825",
+"isFolder":{"opened":false},
+"title":"Null  Session"
+}, {
+"key":"x1829",
+"isFolder":{"opened":true},
+"title":"Single Sign On System",
+"children":[{
+"key":"x1826",
+"isFolder":{"opened":false},
+"title":"Kerberos Architecture"
+}, {
+"key":"x1827",
+"isFolder":{"opened":false},
+"title":"Liberty Framework"
+}, {
+"key":"x1828",
+"isFolder":{"opened":false},
+"title":"M S Passport"
+}]
+}]
+}, {
+"key":"x1833",
+"isFolder":{"opened":true},
+"title":"Technology Mistakenly Used As Countermeasure",
+"children":[{
+"key":"x1831",
+"isFolder":{"opened":false},
+"title":"Network Address Translation"
+}, {
+"key":"x1832",
+"isFolder":{"opened":false},
+"title":"NAT"
+}]
+}, {
+"key":"x1920",
+"isFolder":{"opened":true},
+"title":"Cryptography",
+"children":[{
+"key":"x1834",
+"isFolder":{"opened":false},
+"title":"Publickey Cryptography"
+}, {
+"key":"x1835",
+"isFolder":{"opened":false},
+"title":"One  Way  Encryption"
+}, {
+"key":"x1884",
+"isFolder":{"opened":true},
+"title":"Encryption Algorithm",
+"children":[{
+"key":"x1839",
+"isFolder":{"opened":true},
+"title":"Stream Cipher",
+"children":[{
+"key":"x1836",
+"isFolder":{"opened":false},
+"title":"RC4"
+}, {
+"key":"x1837",
+"isFolder":{"opened":false},
+"title":"CSS"
+}, {
+"key":"x1838",
+"isFolder":{"opened":false},
+"title":"Content Scramble System"
+}]
+}, {
+"key":"x1854",
+"isFolder":{"opened":true},
+"title":"Block Cipher",
+"children":[{
+"key":"x1840",
+"isFolder":{"opened":false},
+"title":"DES"
+}, {
+"key":"x1841",
+"isFolder":{"opened":false},
+"title":"Advanced Encryption Standard"
+}, {
+"key":"x1842",
+"isFolder":{"opened":false},
+"title":"AES"
+}, {
+"key":"x1843",
+"isFolder":{"opened":false},
+"title":"Blowfish"
+}, {
+"key":"x1844",
+"isFolder":{"opened":false},
+"title":"Data Encryption Standard"
+}, {
+"key":"x1848",
+"isFolder":{"opened":true},
+"title":"3DES",
+"children":[{
+"key":"x1845",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x1846",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x1847",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}, {
+"key":"x1849",
+"isFolder":{"opened":false},
+"title":"Skipjack"
+}, {
+"key":"x1853",
+"isFolder":{"opened":true},
+"title":"Triple D E S",
+"children":[{
+"key":"x1850",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x1851",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x1852",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}]
+}, {
+"key":"x1867",
+"isFolder":{"opened":true},
+"title":"Public  Key Encryption",
+"children":[{
+"key":"x1856",
+"isFolder":{"opened":true},
+"title":"Rivestshamiradleman Cryptosystem",
+"children":[{
+"key":"x1855",
+"isFolder":{"opened":false},
+"title":"R S A Signature"
+}]
+}, {
+"key":"x1857",
+"isFolder":{"opened":false},
+"title":"El Gamal Algorithm"
+}, {
+"key":"x1859",
+"isFolder":{"opened":true},
+"title":"RSA",
+"children":[{
+"key":"x1858",
+"isFolder":{"opened":false},
+"title":"R S A Signature"
+}]
+}, {
+"key":"x1866",
+"isFolder":{"opened":true},
+"title":"Elliptic Curve Cryptography",
+"children":[{
+"key":"x1860",
+"isFolder":{"opened":false},
+"title":"Unicity Distance"
+}, {
+"key":"x1862",
+"isFolder":{"opened":true},
+"title":"Cryptosystem",
+"children":[{
+"key":"x1861",
+"isFolder":{"opened":false},
+"title":"Public Key Cryptosystem"
+}]
+}, {
+"key":"x1863",
+"isFolder":{"opened":false},
+"title":"Initialization Vector"
+}, {
+"key":"x1864",
+"isFolder":{"opened":false},
+"title":"Plaintext"
+}, {
+"key":"x1865",
+"isFolder":{"opened":false},
+"title":"Ciphertext"
+}]
+}]
+}, {
+"key":"x1883",
+"isFolder":{"opened":true},
+"title":"Symmetric Algorithm",
+"children":[{
+"key":"x1868",
+"isFolder":{"opened":false},
+"title":"RC4"
+}, {
+"key":"x1869",
+"isFolder":{"opened":false},
+"title":"DES"
+}, {
+"key":"x1870",
+"isFolder":{"opened":false},
+"title":"Advanced Encryption Standard"
+}, {
+"key":"x1871",
+"isFolder":{"opened":false},
+"title":"AES"
+}, {
+"key":"x1872",
+"isFolder":{"opened":false},
+"title":"Blowfish"
+}, {
+"key":"x1873",
+"isFolder":{"opened":false},
+"title":"Data Encryption Standard"
+}, {
+"key":"x1877",
+"isFolder":{"opened":true},
+"title":"3DES",
+"children":[{
+"key":"x1874",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x1875",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x1876",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}, {
+"key":"x1878",
+"isFolder":{"opened":false},
+"title":"Skipjack"
+}, {
+"key":"x1882",
+"isFolder":{"opened":true},
+"title":"Triple D E S",
+"children":[{
+"key":"x1879",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x1880",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x1881",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}]
+}]
+}, {
+"key":"x1885",
+"isFolder":{"opened":false},
+"title":"Asymmetric  Cryptography"
+}, {
+"key":"x1886",
+"isFolder":{"opened":false},
+"title":"Cryptographic Compression Function"
+}, {
+"key":"x1888",
+"isFolder":{"opened":true},
+"title":"Steganography",
+"children":[{
+"key":"x1887",
+"isFolder":{"opened":false},
+"title":"Steganalysis"
+}]
+}, {
+"key":"x1889",
+"isFolder":{"opened":false},
+"title":"Symmetric Cryptography"
+}, {
+"key":"x1890",
+"isFolder":{"opened":false},
+"title":"Hybrid  Encryption"
+}, {
+"key":"x1891",
+"isFolder":{"opened":false},
+"title":"Cryptographic Attacks"
+}, {
+"key":"x1892",
+"isFolder":{"opened":false},
+"title":"Pretty Good Privacy"
+}, {
+"key":"x1893",
+"isFolder":{"opened":false},
+"title":"Encrypted Virus"
+}, {
+"key":"x1895",
+"isFolder":{"opened":true},
+"title":"WEP",
+"children":[{
+"key":"x1894",
+"isFolder":{"opened":false},
+"title":"W E P Key"
+}]
+}, {
+"key":"x1896",
+"isFolder":{"opened":false},
+"title":"Differential Privacy"
+}, {
+"key":"x1897",
+"isFolder":{"opened":false},
+"title":"Digital  Envelope"
+}, {
+"key":"x1913",
+"isFolder":{"opened":true},
+"title":"Signature Algorithm",
+"children":[{
+"key":"x1903",
+"isFolder":{"opened":true},
+"title":"M A C Algorithm",
+"children":[{
+"key":"x1900",
+"isFolder":{"opened":true},
+"title":"RIPE-MAC",
+"children":[{
+"key":"x1898",
+"isFolder":{"opened":false},
+"title":"RIPE-MAC1"
+}, {
+"key":"x1899",
+"isFolder":{"opened":false},
+"title":"RIPE-MAC3"
+}]
+}, {
+"key":"x1901",
+"isFolder":{"opened":false},
+"title":"CBC-MAC"
+}, {
+"key":"x1902",
+"isFolder":{"opened":false},
+"title":"HMAC"
+}]
+}, {
+"key":"x1904",
+"isFolder":{"opened":false},
+"title":"One  Way  Function"
+}, {
+"key":"x1912",
+"isFolder":{"opened":true},
+"title":"Cryptographic Hash Function",
+"children":[{
+"key":"x1905",
+"isFolder":{"opened":false},
+"title":"DSA"
+}, {
+"key":"x1906",
+"isFolder":{"opened":false},
+"title":"RIPE-MD-160"
+}, {
+"key":"x1907",
+"isFolder":{"opened":false},
+"title":"El Gamal Signature Scheme"
+}, {
+"key":"x1908",
+"isFolder":{"opened":false},
+"title":"SHA-1"
+}, {
+"key":"x1909",
+"isFolder":{"opened":false},
+"title":"MD5"
+}, {
+"key":"x1910",
+"isFolder":{"opened":false},
+"title":"MD2"
+}, {
+"key":"x1911",
+"isFolder":{"opened":false},
+"title":"MD4"
+}]
+}]
+}, {
+"key":"x1915",
+"isFolder":{"opened":true},
+"title":"Wired Equivalent Privacy",
+"children":[{
+"key":"x1914",
+"isFolder":{"opened":false},
+"title":"W E P Key"
+}]
+}, {
+"key":"x1916",
+"isFolder":{"opened":false},
+"title":"Cryptanalysis"
+}, {
+"key":"x1917",
+"isFolder":{"opened":false},
+"title":"PGP"
+}, {
+"key":"x1919",
+"isFolder":{"opened":true},
+"title":"Checksum Algorithm",
+"children":[{
+"key":"x1918",
+"isFolder":{"opened":false},
+"title":"Cyclic  Redundancy Check"
+}]
+}]
+}, {
+"key":"x1934",
+"isFolder":{"opened":true},
+"title":"Checksum",
+"children":[{
+"key":"x1924",
+"isFolder":{"opened":true},
+"title":"MAC",
+"children":[{
+"key":"x1921",
+"isFolder":{"opened":false},
+"title":"Approximate Message Authentication Code"
+}, {
+"key":"x1922",
+"isFolder":{"opened":false},
+"title":"AMAC"
+}, {
+"key":"x1923",
+"isFolder":{"opened":false},
+"title":"Hashed Message Authentication Code"
+}]
+}, {
+"key":"x1928",
+"isFolder":{"opened":true},
+"title":"Digital Signing",
+"children":[{
+"key":"x1925",
+"isFolder":{"opened":false},
+"title":"Code Signing"
+}, {
+"key":"x1927",
+"isFolder":{"opened":true},
+"title":"Signing With Certificate",
+"children":[{
+"key":"x1926",
+"isFolder":{"opened":false},
+"title":"Signing With X.509 Certificate"
+}]
+}]
+}, {
+"key":"x1932",
+"isFolder":{"opened":true},
+"title":"Message Authentication Code",
+"children":[{
+"key":"x1929",
+"isFolder":{"opened":false},
+"title":"Approximate Message Authentication Code"
+}, {
+"key":"x1930",
+"isFolder":{"opened":false},
+"title":"AMAC"
+}, {
+"key":"x1931",
+"isFolder":{"opened":false},
+"title":"Hashed Message Authentication Code"
+}]
+}, {
+"key":"x1933",
+"isFolder":{"opened":false},
+"title":"C R C32 Checksum"
+}]
+}, {
+"key":"x1974",
+"isFolder":{"opened":true},
+"title":"Secure Network Communication",
+"children":[{
+"key":"x1938",
+"isFolder":{"opened":true},
+"title":"Internet  Protocol",
+"children":[{
+"key":"x1935",
+"isFolder":{"opened":false},
+"title":"Point To Point Tunelling Protocol"
+}, {
+"key":"x1936",
+"isFolder":{"opened":false},
+"title":"Multi Cast"
+}, {
+"key":"x1937",
+"isFolder":{"opened":false},
+"title":"Point To Point Protocol"
+}]
+}, {
+"key":"x1939",
+"isFolder":{"opened":false},
+"title":"Traffic Padding"
+}, {
+"key":"x1940",
+"isFolder":{"opened":false},
+"title":"VPN"
+}, {
+"key":"x1941",
+"isFolder":{"opened":false},
+"title":"Full  Duplex"
+}, {
+"key":"x1942",
+"isFolder":{"opened":false},
+"title":"Secure Socket Layer"
+}, {
+"key":"x1943",
+"isFolder":{"opened":false},
+"title":"P3P"
+}, {
+"key":"x1944",
+"isFolder":{"opened":false},
+"title":"DNSSEC"
+}, {
+"key":"x1945",
+"isFolder":{"opened":false},
+"title":"SOCKS"
+}, {
+"key":"x1946",
+"isFolder":{"opened":false},
+"title":"I P Sec"
+}, {
+"key":"x1947",
+"isFolder":{"opened":false},
+"title":"SAML"
+}, {
+"key":"x1948",
+"isFolder":{"opened":false},
+"title":"Network Address Translation"
+}, {
+"key":"x1949",
+"isFolder":{"opened":false},
+"title":"X.509"
+}, {
+"key":"x1950",
+"isFolder":{"opened":false},
+"title":"Onion Router"
+}, {
+"key":"x1951",
+"isFolder":{"opened":false},
+"title":"S-MIME"
+}, {
+"key":"x1952",
+"isFolder":{"opened":false},
+"title":"Socket  Pair"
+}, {
+"key":"x1953",
+"isFolder":{"opened":false},
+"title":"Kerberos Authentication Protocol"
+}, {
+"key":"x1954",
+"isFolder":{"opened":false},
+"title":"SSL"
+}, {
+"key":"x1955",
+"isFolder":{"opened":false},
+"title":"Virtual Private Networking"
+}, {
+"key":"x1956",
+"isFolder":{"opened":false},
+"title":"SSH"
+}, {
+"key":"x1960",
+"isFolder":{"opened":true},
+"title":"HTTPS",
+"children":[{
+"key":"x1957",
+"isFolder":{"opened":false},
+"title":"Hypertext  Markup  Language"
+}, {
+"key":"x1958",
+"isFolder":{"opened":false},
+"title":"H T T P  Proxy"
+}, {
+"key":"x1959",
+"isFolder":{"opened":false},
+"title":"Hyperlink"
+}]
+}, {
+"key":"x1964",
+"isFolder":{"opened":true},
+"title":"Hypertext Transfer Protocol",
+"children":[{
+"key":"x1961",
+"isFolder":{"opened":false},
+"title":"Hypertext  Markup  Language"
+}, {
+"key":"x1962",
+"isFolder":{"opened":false},
+"title":"H T T P  Proxy"
+}, {
+"key":"x1963",
+"isFolder":{"opened":false},
+"title":"Hyperlink"
+}]
+}, {
+"key":"x1965",
+"isFolder":{"opened":false},
+"title":"Open P G P"
+}, {
+"key":"x1966",
+"isFolder":{"opened":false},
+"title":"Firefly"
+}, {
+"key":"x1967",
+"isFolder":{"opened":false},
+"title":"S-HTTP"
+}, {
+"key":"x1968",
+"isFolder":{"opened":false},
+"title":"NAT"
+}, {
+"key":"x1969",
+"isFolder":{"opened":false},
+"title":"Transport  Layer  Security"
+}, {
+"key":"x1972",
+"isFolder":{"opened":true},
+"title":"Remailer",
+"children":[{
+"key":"x1970",
+"isFolder":{"opened":false},
+"title":"SMTP"
+}, {
+"key":"x1971",
+"isFolder":{"opened":false},
+"title":"Simple Mail Transfer Protocol"
+}]
+}, {
+"key":"x1973",
+"isFolder":{"opened":false},
+"title":"Secure Shell"
+}]
+}, {
+"key":"x2012",
+"isFolder":{"opened":true},
+"title":"Monitoring",
+"children":[{
+"key":"x1975",
+"isFolder":{"opened":false},
+"title":"Promiscuous  Mode"
+}, {
+"key":"x1976",
+"isFolder":{"opened":false},
+"title":"Video Monitoring"
+}, {
+"key":"x1978",
+"isFolder":{"opened":true},
+"title":"Log Monitoring",
+"children":[{
+"key":"x1977",
+"isFolder":{"opened":false},
+"title":"Source Code Auditing"
+}]
+}, {
+"key":"x1980",
+"isFolder":{"opened":true},
+"title":"Logging",
+"children":[{
+"key":"x1979",
+"isFolder":{"opened":false},
+"title":"Source Code Auditing"
+}]
+}, {
+"key":"x1982",
+"isFolder":{"opened":true},
+"title":"Auditing",
+"children":[{
+"key":"x1981",
+"isFolder":{"opened":false},
+"title":"Source Code Auditing"
+}]
+}, {
+"key":"x1990",
+"isFolder":{"opened":true},
+"title":"Firewall",
+"children":[{
+"key":"x1983",
+"isFolder":{"opened":false},
+"title":"Stateless Firewall"
+}, {
+"key":"x1984",
+"isFolder":{"opened":false},
+"title":"Stateful Firewall"
+}, {
+"key":"x1985",
+"isFolder":{"opened":false},
+"title":"Application Level Gateway"
+}, {
+"key":"x1987",
+"isFolder":{"opened":true},
+"title":"Packet Filter",
+"children":[{
+"key":"x1986",
+"isFolder":{"opened":false},
+"title":"Stateful Inspection Packet Filter"
+}]
+}, {
+"key":"x1988",
+"isFolder":{"opened":false},
+"title":"Circuit Level Gateway"
+}, {
+"key":"x1989",
+"isFolder":{"opened":false},
+"title":"Applicationlayer Firewall"
+}]
+}, {
+"key":"x1991",
+"isFolder":{"opened":false},
+"title":"Signals  Analysis"
+}, {
+"key":"x1992",
+"isFolder":{"opened":false},
+"title":"E Mail Filter"
+}, {
+"key":"x2010",
+"isFolder":{"opened":true},
+"title":"Intrusion Detection System",
+"children":[{
+"key":"x1995",
+"isFolder":{"opened":true},
+"title":"By Usage Frequency",
+"children":[{
+"key":"x1993",
+"isFolder":{"opened":false},
+"title":"Continuous Intrusion Detection System"
+}, {
+"key":"x1994",
+"isFolder":{"opened":false},
+"title":"Periodic Intrusion Detection System"
+}]
+}, {
+"key":"x1996",
+"isFolder":{"opened":false},
+"title":"Network  Based  I D S"
+}, {
+"key":"x2001",
+"isFolder":{"opened":true},
+"title":"By Detection Method",
+"children":[{
+"key":"x1997",
+"isFolder":{"opened":false},
+"title":"Misuse Detection System"
+}, {
+"key":"x1998",
+"isFolder":{"opened":false},
+"title":"Anomaly Detection System"
+}, {
+"key":"x1999",
+"isFolder":{"opened":false},
+"title":"Behaviour  Based Intrusion Detection System"
+}, {
+"key":"x2000",
+"isFolder":{"opened":false},
+"title":"Knowledge  Based Intrusion Detection System"
+}]
+}, {
+"key":"x2006",
+"isFolder":{"opened":true},
+"title":"By Audit Source Location",
+"children":[{
+"key":"x2003",
+"isFolder":{"opened":true},
+"title":"Host  Based Intrusion Detection System",
+"children":[{
+"key":"x2002",
+"isFolder":{"opened":false},
+"title":"Tripwire"
+}]
+}, {
+"key":"x2005",
+"isFolder":{"opened":true},
+"title":"Network  Based Intrusion Detection System",
+"children":[{
+"key":"x2004",
+"isFolder":{"opened":false},
+"title":"Snort"
+}]
+}]
+}, {
+"key":"x2009",
+"isFolder":{"opened":true},
+"title":"By Behaviour On Detection",
+"children":[{
+"key":"x2007",
+"isFolder":{"opened":false},
+"title":"Passive Intrusion Detection System"
+}, {
+"key":"x2008",
+"isFolder":{"opened":false},
+"title":"Active Intrusion Detection System"
+}]
+}]
+}, {
+"key":"x2011",
+"isFolder":{"opened":false},
+"title":"Anti  Virus Software"
+}]
+}, {
+"key":"x2013",
+"isFolder":{"opened":false},
+"title":"Hardening"
+}, {
+"key":"x2027",
+"isFolder":{"opened":true},
+"title":"Message Digest",
+"children":[{
+"key":"x2017",
+"isFolder":{"opened":true},
+"title":"MAC",
+"children":[{
+"key":"x2014",
+"isFolder":{"opened":false},
+"title":"Approximate Message Authentication Code"
+}, {
+"key":"x2015",
+"isFolder":{"opened":false},
+"title":"AMAC"
+}, {
+"key":"x2016",
+"isFolder":{"opened":false},
+"title":"Hashed Message Authentication Code"
+}]
+}, {
+"key":"x2021",
+"isFolder":{"opened":true},
+"title":"Digital Signing",
+"children":[{
+"key":"x2018",
+"isFolder":{"opened":false},
+"title":"Code Signing"
+}, {
+"key":"x2020",
+"isFolder":{"opened":true},
+"title":"Signing With Certificate",
+"children":[{
+"key":"x2019",
+"isFolder":{"opened":false},
+"title":"Signing With X.509 Certificate"
+}]
+}]
+}, {
+"key":"x2025",
+"isFolder":{"opened":true},
+"title":"Message Authentication Code",
+"children":[{
+"key":"x2022",
+"isFolder":{"opened":false},
+"title":"Approximate Message Authentication Code"
+}, {
+"key":"x2023",
+"isFolder":{"opened":false},
+"title":"AMAC"
+}, {
+"key":"x2024",
+"isFolder":{"opened":false},
+"title":"Hashed Message Authentication Code"
+}]
+}, {
+"key":"x2026",
+"isFolder":{"opened":false},
+"title":"C R C32 Checksum"
+}]
+}, {
+"key":"x2114",
+"isFolder":{"opened":true},
+"title":"Encryption",
+"children":[{
+"key":"x2028",
+"isFolder":{"opened":false},
+"title":"Publickey Cryptography"
+}, {
+"key":"x2029",
+"isFolder":{"opened":false},
+"title":"One  Way  Encryption"
+}, {
+"key":"x2078",
+"isFolder":{"opened":true},
+"title":"Encryption Algorithm",
+"children":[{
+"key":"x2033",
+"isFolder":{"opened":true},
+"title":"Stream Cipher",
+"children":[{
+"key":"x2030",
+"isFolder":{"opened":false},
+"title":"RC4"
+}, {
+"key":"x2031",
+"isFolder":{"opened":false},
+"title":"CSS"
+}, {
+"key":"x2032",
+"isFolder":{"opened":false},
+"title":"Content Scramble System"
+}]
+}, {
+"key":"x2048",
+"isFolder":{"opened":true},
+"title":"Block Cipher",
+"children":[{
+"key":"x2034",
+"isFolder":{"opened":false},
+"title":"DES"
+}, {
+"key":"x2035",
+"isFolder":{"opened":false},
+"title":"Advanced Encryption Standard"
+}, {
+"key":"x2036",
+"isFolder":{"opened":false},
+"title":"AES"
+}, {
+"key":"x2037",
+"isFolder":{"opened":false},
+"title":"Blowfish"
+}, {
+"key":"x2038",
+"isFolder":{"opened":false},
+"title":"Data Encryption Standard"
+}, {
+"key":"x2042",
+"isFolder":{"opened":true},
+"title":"3DES",
+"children":[{
+"key":"x2039",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2040",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2041",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}, {
+"key":"x2043",
+"isFolder":{"opened":false},
+"title":"Skipjack"
+}, {
+"key":"x2047",
+"isFolder":{"opened":true},
+"title":"Triple D E S",
+"children":[{
+"key":"x2044",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2045",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2046",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}]
+}, {
+"key":"x2061",
+"isFolder":{"opened":true},
+"title":"Public  Key Encryption",
+"children":[{
+"key":"x2050",
+"isFolder":{"opened":true},
+"title":"Rivestshamiradleman Cryptosystem",
+"children":[{
+"key":"x2049",
+"isFolder":{"opened":false},
+"title":"R S A Signature"
+}]
+}, {
+"key":"x2051",
+"isFolder":{"opened":false},
+"title":"El Gamal Algorithm"
+}, {
+"key":"x2053",
+"isFolder":{"opened":true},
+"title":"RSA",
+"children":[{
+"key":"x2052",
+"isFolder":{"opened":false},
+"title":"R S A Signature"
+}]
+}, {
+"key":"x2060",
+"isFolder":{"opened":true},
+"title":"Elliptic Curve Cryptography",
+"children":[{
+"key":"x2054",
+"isFolder":{"opened":false},
+"title":"Unicity Distance"
+}, {
+"key":"x2056",
+"isFolder":{"opened":true},
+"title":"Cryptosystem",
+"children":[{
+"key":"x2055",
+"isFolder":{"opened":false},
+"title":"Public Key Cryptosystem"
+}]
+}, {
+"key":"x2057",
+"isFolder":{"opened":false},
+"title":"Initialization Vector"
+}, {
+"key":"x2058",
+"isFolder":{"opened":false},
+"title":"Plaintext"
+}, {
+"key":"x2059",
+"isFolder":{"opened":false},
+"title":"Ciphertext"
+}]
+}]
+}, {
+"key":"x2077",
+"isFolder":{"opened":true},
+"title":"Symmetric Algorithm",
+"children":[{
+"key":"x2062",
+"isFolder":{"opened":false},
+"title":"RC4"
+}, {
+"key":"x2063",
+"isFolder":{"opened":false},
+"title":"DES"
+}, {
+"key":"x2064",
+"isFolder":{"opened":false},
+"title":"Advanced Encryption Standard"
+}, {
+"key":"x2065",
+"isFolder":{"opened":false},
+"title":"AES"
+}, {
+"key":"x2066",
+"isFolder":{"opened":false},
+"title":"Blowfish"
+}, {
+"key":"x2067",
+"isFolder":{"opened":false},
+"title":"Data Encryption Standard"
+}, {
+"key":"x2071",
+"isFolder":{"opened":true},
+"title":"3DES",
+"children":[{
+"key":"x2068",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2069",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2070",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}, {
+"key":"x2072",
+"isFolder":{"opened":false},
+"title":"Skipjack"
+}, {
+"key":"x2076",
+"isFolder":{"opened":true},
+"title":"Triple D E S",
+"children":[{
+"key":"x2073",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2074",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2075",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}]
+}]
+}, {
+"key":"x2079",
+"isFolder":{"opened":false},
+"title":"Asymmetric  Cryptography"
+}, {
+"key":"x2080",
+"isFolder":{"opened":false},
+"title":"Cryptographic Compression Function"
+}, {
+"key":"x2082",
+"isFolder":{"opened":true},
+"title":"Steganography",
+"children":[{
+"key":"x2081",
+"isFolder":{"opened":false},
+"title":"Steganalysis"
+}]
+}, {
+"key":"x2083",
+"isFolder":{"opened":false},
+"title":"Symmetric Cryptography"
+}, {
+"key":"x2084",
+"isFolder":{"opened":false},
+"title":"Hybrid  Encryption"
+}, {
+"key":"x2085",
+"isFolder":{"opened":false},
+"title":"Cryptographic Attacks"
+}, {
+"key":"x2086",
+"isFolder":{"opened":false},
+"title":"Pretty Good Privacy"
+}, {
+"key":"x2087",
+"isFolder":{"opened":false},
+"title":"Encrypted Virus"
+}, {
+"key":"x2089",
+"isFolder":{"opened":true},
+"title":"WEP",
+"children":[{
+"key":"x2088",
+"isFolder":{"opened":false},
+"title":"W E P Key"
+}]
+}, {
+"key":"x2090",
+"isFolder":{"opened":false},
+"title":"Differential Privacy"
+}, {
+"key":"x2091",
+"isFolder":{"opened":false},
+"title":"Digital  Envelope"
+}, {
+"key":"x2107",
+"isFolder":{"opened":true},
+"title":"Signature Algorithm",
+"children":[{
+"key":"x2097",
+"isFolder":{"opened":true},
+"title":"M A C Algorithm",
+"children":[{
+"key":"x2094",
+"isFolder":{"opened":true},
+"title":"RIPE-MAC",
+"children":[{
+"key":"x2092",
+"isFolder":{"opened":false},
+"title":"RIPE-MAC1"
+}, {
+"key":"x2093",
+"isFolder":{"opened":false},
+"title":"RIPE-MAC3"
+}]
+}, {
+"key":"x2095",
+"isFolder":{"opened":false},
+"title":"CBC-MAC"
+}, {
+"key":"x2096",
+"isFolder":{"opened":false},
+"title":"HMAC"
+}]
+}, {
+"key":"x2098",
+"isFolder":{"opened":false},
+"title":"One  Way  Function"
+}, {
+"key":"x2106",
+"isFolder":{"opened":true},
+"title":"Cryptographic Hash Function",
+"children":[{
+"key":"x2099",
+"isFolder":{"opened":false},
+"title":"DSA"
+}, {
+"key":"x2100",
+"isFolder":{"opened":false},
+"title":"RIPE-MD-160"
+}, {
+"key":"x2101",
+"isFolder":{"opened":false},
+"title":"El Gamal Signature Scheme"
+}, {
+"key":"x2102",
+"isFolder":{"opened":false},
+"title":"SHA-1"
+}, {
+"key":"x2103",
+"isFolder":{"opened":false},
+"title":"MD5"
+}, {
+"key":"x2104",
+"isFolder":{"opened":false},
+"title":"MD2"
+}, {
+"key":"x2105",
+"isFolder":{"opened":false},
+"title":"MD4"
+}]
+}]
+}, {
+"key":"x2109",
+"isFolder":{"opened":true},
+"title":"Wired Equivalent Privacy",
+"children":[{
+"key":"x2108",
+"isFolder":{"opened":false},
+"title":"W E P Key"
+}]
+}, {
+"key":"x2110",
+"isFolder":{"opened":false},
+"title":"Cryptanalysis"
+}, {
+"key":"x2111",
+"isFolder":{"opened":false},
+"title":"PGP"
+}, {
+"key":"x2113",
+"isFolder":{"opened":true},
+"title":"Checksum Algorithm",
+"children":[{
+"key":"x2112",
+"isFolder":{"opened":false},
+"title":"Cyclic  Redundancy Check"
+}]
+}]
+}, {
+"key":"x2115",
+"isFolder":{"opened":false},
+"title":"Emissions Security"
+}, {
+"key":"x2116",
+"isFolder":{"opened":false},
+"title":"Backup"
+}, {
+"key":"x2150",
+"isFolder":{"opened":true},
+"title":"Access Control",
+"children":[{
+"key":"x2117",
+"isFolder":{"opened":false},
+"title":"Access  Matrix"
+}, {
+"key":"x2118",
+"isFolder":{"opened":false},
+"title":"RADIUS"
+}, {
+"key":"x2119",
+"isFolder":{"opened":false},
+"title":"List  Based  Access  Control"
+}, {
+"key":"x2120",
+"isFolder":{"opened":false},
+"title":"Access Control Matrix"
+}, {
+"key":"x2121",
+"isFolder":{"opened":false},
+"title":"Extensible  Authentication  Protocol"
+}, {
+"key":"x2124",
+"isFolder":{"opened":true},
+"title":"Authorization",
+"children":[{
+"key":"x2122",
+"isFolder":{"opened":false},
+"title":"CA"
+}, {
+"key":"x2123",
+"isFolder":{"opened":false},
+"title":"Certificate Authority"
+}]
+}, {
+"key":"x2132",
+"isFolder":{"opened":true},
+"title":"Firewall",
+"children":[{
+"key":"x2125",
+"isFolder":{"opened":false},
+"title":"Stateless Firewall"
+}, {
+"key":"x2126",
+"isFolder":{"opened":false},
+"title":"Stateful Firewall"
+}, {
+"key":"x2127",
+"isFolder":{"opened":false},
+"title":"Application Level Gateway"
+}, {
+"key":"x2129",
+"isFolder":{"opened":true},
+"title":"Packet Filter",
+"children":[{
+"key":"x2128",
+"isFolder":{"opened":false},
+"title":"Stateful Inspection Packet Filter"
+}]
+}, {
+"key":"x2130",
+"isFolder":{"opened":false},
+"title":"Circuit Level Gateway"
+}, {
+"key":"x2131",
+"isFolder":{"opened":false},
+"title":"Applicationlayer Firewall"
+}]
+}, {
+"key":"x2133",
+"isFolder":{"opened":false},
+"title":"ACL"
+}, {
+"key":"x2134",
+"isFolder":{"opened":false},
+"title":"Reference Monitor"
+}, {
+"key":"x2135",
+"isFolder":{"opened":false},
+"title":"File Access Control"
+}, {
+"key":"x2136",
+"isFolder":{"opened":false},
+"title":"Access Control Service"
+}, {
+"key":"x2137",
+"isFolder":{"opened":false},
+"title":"E Mail Filter"
+}, {
+"key":"x2138",
+"isFolder":{"opened":false},
+"title":"Separation Of  Duties"
+}, {
+"key":"x2139",
+"isFolder":{"opened":false},
+"title":"Challenge  Handshake  Authentication  Protocol"
+}, {
+"key":"x2140",
+"isFolder":{"opened":false},
+"title":"D B Access Control"
+}, {
+"key":"x2141",
+"isFolder":{"opened":false},
+"title":"Rule  Set  Based  Access  Control"
+}, {
+"key":"x2142",
+"isFolder":{"opened":false},
+"title":"Access Control List"
+}, {
+"key":"x2143",
+"isFolder":{"opened":false},
+"title":"Database Access Control"
+}, {
+"key":"x2144",
+"isFolder":{"opened":false},
+"title":"M A C Address"
+}, {
+"key":"x2148",
+"isFolder":{"opened":true},
+"title":"Java Sandbox",
+"children":[{
+"key":"x2147",
+"isFolder":{"opened":true},
+"title":"Java",
+"children":[{
+"key":"x2145",
+"isFolder":{"opened":false},
+"title":"Javascript"
+}, {
+"key":"x2146",
+"isFolder":{"opened":false},
+"title":"Java Applets"
+}]
+}]
+}, {
+"key":"x2149",
+"isFolder":{"opened":false},
+"title":"Anti  Virus Software"
+}]
+}, {
+"key":"x2151",
+"isFolder":{"opened":false},
+"title":"Decryption"
+}, {
+"key":"x2152",
+"isFolder":{"opened":false},
+"title":"Vulnerability Scanner"
+}, {
+"key":"x2155",
+"isFolder":{"opened":true},
+"title":"Trust Management",
+"children":[{
+"key":"x2153",
+"isFolder":{"opened":false},
+"title":"Policy Maker"
+}, {
+"key":"x2154",
+"isFolder":{"opened":false},
+"title":"Keynote"
+}]
+}, {
+"key":"x2220",
+"isFolder":{"opened":true},
+"title":"Standard",
+"children":[{
+"key":"x2156",
+"isFolder":{"opened":false},
+"title":"Blowfish"
+}, {
+"key":"x2157",
+"isFolder":{"opened":false},
+"title":"Link Layer"
+}, {
+"key":"x2158",
+"isFolder":{"opened":false},
+"title":"P3P"
+}, {
+"key":"x2159",
+"isFolder":{"opened":false},
+"title":"Global System For Mobile Communications"
+}, {
+"key":"x2160",
+"isFolder":{"opened":false},
+"title":"ISO"
+}, {
+"key":"x2162",
+"isFolder":{"opened":true},
+"title":"OSI",
+"children":[{
+"key":"x2161",
+"isFolder":{"opened":false},
+"title":"O S I Layer"
+}]
+}, {
+"key":"x2163",
+"isFolder":{"opened":false},
+"title":"SAML"
+}, {
+"key":"x2164",
+"isFolder":{"opened":false},
+"title":"Network Address Translation"
+}, {
+"key":"x2165",
+"isFolder":{"opened":false},
+"title":"GSM"
+}, {
+"key":"x2166",
+"isFolder":{"opened":false},
+"title":"IMSI"
+}, {
+"key":"x2167",
+"isFolder":{"opened":false},
+"title":"Common Criteria"
+}, {
+"key":"x2168",
+"isFolder":{"opened":false},
+"title":"Federal Information Processing Standardization"
+}, {
+"key":"x2169",
+"isFolder":{"opened":false},
+"title":"Internet  Message  Access  Protocol"
+}, {
+"key":"x2170",
+"isFolder":{"opened":false},
+"title":"AES"
+}, {
+"key":"x2171",
+"isFolder":{"opened":false},
+"title":"S-MIME"
+}, {
+"key":"x2172",
+"isFolder":{"opened":false},
+"title":"FIPS"
+}, {
+"key":"x2176",
+"isFolder":{"opened":true},
+"title":"Hypertext Transfer Protocol",
+"children":[{
+"key":"x2173",
+"isFolder":{"opened":false},
+"title":"Hypertext  Markup  Language"
+}, {
+"key":"x2174",
+"isFolder":{"opened":false},
+"title":"H T T P  Proxy"
+}, {
+"key":"x2175",
+"isFolder":{"opened":false},
+"title":"Hyperlink"
+}]
+}, {
+"key":"x2177",
+"isFolder":{"opened":false},
+"title":"Trusted Computer System Evaluation Criteria"
+}, {
+"key":"x2178",
+"isFolder":{"opened":false},
+"title":"Internet  Standard"
+}, {
+"key":"x2181",
+"isFolder":{"opened":true},
+"title":"Ethernet",
+"children":[{
+"key":"x2179",
+"isFolder":{"opened":false},
+"title":"Network Segment"
+}, {
+"key":"x2180",
+"isFolder":{"opened":false},
+"title":"National  Institute Of Standard And  Technology"
+}]
+}, {
+"key":"x2186",
+"isFolder":{"opened":true},
+"title":"Internet",
+"children":[{
+"key":"x2182",
+"isFolder":{"opened":false},
+"title":"World Wide Web"
+}, {
+"key":"x2183",
+"isFolder":{"opened":false},
+"title":"Uniform Resource Locator"
+}, {
+"key":"x2184",
+"isFolder":{"opened":false},
+"title":"Uniform Resource Identifier"
+}, {
+"key":"x2185",
+"isFolder":{"opened":false},
+"title":"Web Server"
+}]
+}, {
+"key":"x2187",
+"isFolder":{"opened":false},
+"title":"DSA"
+}, {
+"key":"x2188",
+"isFolder":{"opened":false},
+"title":"User Datagram Protocol"
+}, {
+"key":"x2189",
+"isFolder":{"opened":false},
+"title":"International Organization For Standardization"
+}, {
+"key":"x2190",
+"isFolder":{"opened":false},
+"title":"Secure Socket Layer"
+}, {
+"key":"x2191",
+"isFolder":{"opened":false},
+"title":"DNSSEC"
+}, {
+"key":"x2192",
+"isFolder":{"opened":false},
+"title":"RC4"
+}, {
+"key":"x2193",
+"isFolder":{"opened":false},
+"title":"TCSEC"
+}, {
+"key":"x2194",
+"isFolder":{"opened":false},
+"title":"I P Sec"
+}, {
+"key":"x2195",
+"isFolder":{"opened":false},
+"title":"SHA-1"
+}, {
+"key":"x2196",
+"isFolder":{"opened":false},
+"title":"UDP"
+}, {
+"key":"x2197",
+"isFolder":{"opened":false},
+"title":"X.509"
+}, {
+"key":"x2199",
+"isFolder":{"opened":true},
+"title":"Ephemeral  Port",
+"children":[{
+"key":"x2198",
+"isFolder":{"opened":false},
+"title":"Exterior  Gateway  Protocol"
+}]
+}, {
+"key":"x2200",
+"isFolder":{"opened":false},
+"title":"DES"
+}, {
+"key":"x2201",
+"isFolder":{"opened":false},
+"title":"Advanced Encryption Standard"
+}, {
+"key":"x2202",
+"isFolder":{"opened":false},
+"title":"Border  Gateway  Protocol"
+}, {
+"key":"x2203",
+"isFolder":{"opened":false},
+"title":"Data Encryption Standard"
+}, {
+"key":"x2204",
+"isFolder":{"opened":false},
+"title":"Kerberos Authentication Protocol"
+}, {
+"key":"x2205",
+"isFolder":{"opened":false},
+"title":"SSL"
+}, {
+"key":"x2206",
+"isFolder":{"opened":false},
+"title":"SSH"
+}, {
+"key":"x2210",
+"isFolder":{"opened":true},
+"title":"HTTPS",
+"children":[{
+"key":"x2207",
+"isFolder":{"opened":false},
+"title":"Hypertext  Markup  Language"
+}, {
+"key":"x2208",
+"isFolder":{"opened":false},
+"title":"H T T P  Proxy"
+}, {
+"key":"x2209",
+"isFolder":{"opened":false},
+"title":"Hyperlink"
+}]
+}, {
+"key":"x2211",
+"isFolder":{"opened":false},
+"title":"International Mobile Subscriber Identity"
+}, {
+"key":"x2212",
+"isFolder":{"opened":false},
+"title":"Open P G P"
+}, {
+"key":"x2213",
+"isFolder":{"opened":false},
+"title":"ITU-T"
+}, {
+"key":"x2214",
+"isFolder":{"opened":false},
+"title":"Firefly"
+}, {
+"key":"x2215",
+"isFolder":{"opened":false},
+"title":"MD5"
+}, {
+"key":"x2216",
+"isFolder":{"opened":false},
+"title":"NAT"
+}, {
+"key":"x2217",
+"isFolder":{"opened":false},
+"title":"S-HTTP"
+}, {
+"key":"x2218",
+"isFolder":{"opened":false},
+"title":"MD2"
+}, {
+"key":"x2219",
+"isFolder":{"opened":false},
+"title":"Secure Shell"
+}]
+}, {
+"key":"x2240",
+"isFolder":{"opened":true},
+"title":"Key Management",
+"children":[{
+"key":"x2221",
+"isFolder":{"opened":false},
+"title":"Web Of Trust"
+}, {
+"key":"x2224",
+"isFolder":{"opened":true},
+"title":"PKI",
+"children":[{
+"key":"x2222",
+"isFolder":{"opened":false},
+"title":"Open P G P"
+}, {
+"key":"x2223",
+"isFolder":{"opened":false},
+"title":"X.509"
+}]
+}, {
+"key":"x2225",
+"isFolder":{"opened":false},
+"title":"Root Certificate"
+}, {
+"key":"x2226",
+"isFolder":{"opened":false},
+"title":"Key Distribution"
+}, {
+"key":"x2230",
+"isFolder":{"opened":true},
+"title":"Digital Signature",
+"children":[{
+"key":"x2227",
+"isFolder":{"opened":false},
+"title":"DST"
+}, {
+"key":"x2228",
+"isFolder":{"opened":false},
+"title":"Triple  Wrapped"
+}, {
+"key":"x2229",
+"isFolder":{"opened":false},
+"title":"Digital Signature Transponder"
+}]
+}, {
+"key":"x2239",
+"isFolder":{"opened":true},
+"title":"Key Exchange",
+"children":[{
+"key":"x2231",
+"isFolder":{"opened":false},
+"title":"IKE"
+}, {
+"key":"x2232",
+"isFolder":{"opened":false},
+"title":"Internet Key Exchange"
+}, {
+"key":"x2233",
+"isFolder":{"opened":false},
+"title":"Oakley"
+}, {
+"key":"x2234",
+"isFolder":{"opened":false},
+"title":"Diffie Hellman"
+}, {
+"key":"x2237",
+"isFolder":{"opened":true},
+"title":"Key Exchange Protocol",
+"children":[{
+"key":"x2235",
+"isFolder":{"opened":false},
+"title":"DH"
+}, {
+"key":"x2236",
+"isFolder":{"opened":false},
+"title":"Diffie Hellman Key Exchange Protocol"
+}]
+}, {
+"key":"x2238",
+"isFolder":{"opened":false},
+"title":"KEA"
+}]
+}]
+}, {
+"key":"x2242",
+"isFolder":{"opened":true},
+"title":"Sanitizer",
+"children":[{
+"key":"x2241",
+"isFolder":{"opened":false},
+"title":"Degausser"
+}]
+}]
+}, {
+"key":"x2244",
+"isFolder":{"opened":false},
+"title":"Cost  Benefit  Analysis"
+}, {
+"key":"x2247",
+"isFolder":{"opened":true},
+"title":"Domain Name  System",
+"children":[{
+"key":"x2245",
+"isFolder":{"opened":false},
+"title":"Domain"
+}, {
+"key":"x2246",
+"isFolder":{"opened":false},
+"title":"Fully  Qualified  Domain  Name"
+}]
+}, {
+"key":"x2251",
+"isFolder":{"opened":true},
+"title":"Human",
+"children":[{
+"key":"x2248",
+"isFolder":{"opened":false},
+"title":"Receiver"
+}, {
+"key":"x2250",
+"isFolder":{"opened":true},
+"title":"Sender",
+"children":[{
+"key":"x2249",
+"isFolder":{"opened":false},
+"title":"Sender Policy Framework"
+}]
+}]
+}]
+}, {
+"key":"x2592",
+"isFolder":{"opened":true},
+"title":"Threat",
+"children":[{
+"key":"x2253",
+"isFolder":{"opened":false},
+"title":"Domain  Hijacking"
+}, {
+"key":"x2254",
+"isFolder":{"opened":false},
+"title":"Attack Surface"
+}, {
+"key":"x2255",
+"isFolder":{"opened":false},
+"title":"Optimistic T C P A C K Attack"
+}, {
+"key":"x2256",
+"isFolder":{"opened":false},
+"title":"Competitive  Intelligence"
+}, {
+"key":"x2257",
+"isFolder":{"opened":false},
+"title":"Ping Flood"
+}, {
+"key":"x2258",
+"isFolder":{"opened":false},
+"title":"Hardware Attacks"
+}, {
+"key":"x2259",
+"isFolder":{"opened":false},
+"title":"Insider Attack"
+}, {
+"key":"x2260",
+"isFolder":{"opened":false},
+"title":"Unicode Attack"
+}, {
+"key":"x2261",
+"isFolder":{"opened":false},
+"title":"Cryptosystem Attacks"
+}, {
+"key":"x2262",
+"isFolder":{"opened":false},
+"title":"S Y N Flood"
+}, {
+"key":"x2263",
+"isFolder":{"opened":false},
+"title":"Birthday Attack"
+}, {
+"key":"x2264",
+"isFolder":{"opened":false},
+"title":"Smurf Attack"
+}, {
+"key":"x2265",
+"isFolder":{"opened":false},
+"title":"Known Plaintext Attack"
+}, {
+"key":"x2281",
+"isFolder":{"opened":true},
+"title":"Passive Attack",
+"children":[{
+"key":"x2269",
+"isFolder":{"opened":true},
+"title":"Eavesdropping",
+"children":[{
+"key":"x2266",
+"isFolder":{"opened":false},
+"title":"Password Sniffing"
+}, {
+"key":"x2268",
+"isFolder":{"opened":true},
+"title":"Traffic Analysis",
+"children":[{
+"key":"x2267",
+"isFolder":{"opened":false},
+"title":"Ingress  Filtering"
+}]
+}]
+}, {
+"key":"x2270",
+"isFolder":{"opened":false},
+"title":"Full Disclosure"
+}, {
+"key":"x2274",
+"isFolder":{"opened":true},
+"title":"Side Channel Attack",
+"children":[{
+"key":"x2271",
+"isFolder":{"opened":false},
+"title":"Power Monitoring Attack"
+}, {
+"key":"x2272",
+"isFolder":{"opened":false},
+"title":"Radiation Monitoring"
+}, {
+"key":"x2273",
+"isFolder":{"opened":false},
+"title":"Timing Attack"
+}]
+}, {
+"key":"x2275",
+"isFolder":{"opened":false},
+"title":"Emanations  Analysis"
+}, {
+"key":"x2276",
+"isFolder":{"opened":false},
+"title":"Responsible Disclosure"
+}, {
+"key":"x2278",
+"isFolder":{"opened":true},
+"title":"System Mapping",
+"children":[{
+"key":"x2277",
+"isFolder":{"opened":false},
+"title":"Vulnerability Scanner"
+}]
+}, {
+"key":"x2279",
+"isFolder":{"opened":false},
+"title":"Statistical Attack"
+}, {
+"key":"x2280",
+"isFolder":{"opened":false},
+"title":"Scavenging"
+}]
+}, {
+"key":"x2282",
+"isFolder":{"opened":false},
+"title":"Ciphertext Only Attack"
+}, {
+"key":"x2283",
+"isFolder":{"opened":false},
+"title":"Asymmetric  Warfare"
+}, {
+"key":"x2554",
+"isFolder":{"opened":true},
+"title":"Active Attack",
+"children":[{
+"key":"x2288",
+"isFolder":{"opened":true},
+"title":"Brute Force Attack",
+"children":[{
+"key":"x2286",
+"isFolder":{"opened":true},
+"title":"Guessing Attack",
+"children":[{
+"key":"x2285",
+"isFolder":{"opened":true},
+"title":"Dictionary Attack",
+"children":[{
+"key":"x2284",
+"isFolder":{"opened":false},
+"title":"Hybrid  Attack"
+}]
+}]
+}, {
+"key":"x2287",
+"isFolder":{"opened":false},
+"title":"Scanning Attack"
+}]
+}, {
+"key":"x2289",
+"isFolder":{"opened":false},
+"title":"R P C  Scans"
+}, {
+"key":"x2290",
+"isFolder":{"opened":false},
+"title":"Fork  Bomb"
+}, {
+"key":"x2299",
+"isFolder":{"opened":true},
+"title":"Denial Of Service",
+"children":[{
+"key":"x2291",
+"isFolder":{"opened":false},
+"title":"Stack Attack"
+}, {
+"key":"x2294",
+"isFolder":{"opened":true},
+"title":"Internet Infrastructure Denial Of Service",
+"children":[{
+"key":"x2292",
+"isFolder":{"opened":false},
+"title":"Do S  I C M P"
+}, {
+"key":"x2293",
+"isFolder":{"opened":false},
+"title":"Do S  T C P"
+}]
+}, {
+"key":"x2295",
+"isFolder":{"opened":false},
+"title":"Smurf"
+}, {
+"key":"x2296",
+"isFolder":{"opened":false},
+"title":"Flooding"
+}, {
+"key":"x2297",
+"isFolder":{"opened":false},
+"title":"Window Attack"
+}, {
+"key":"x2298",
+"isFolder":{"opened":false},
+"title":"Distributed Denial Of Service"
+}]
+}, {
+"key":"x2346",
+"isFolder":{"opened":true},
+"title":"Deception",
+"children":[{
+"key":"x2300",
+"isFolder":{"opened":false},
+"title":"Packet Mistreatment Link"
+}, {
+"key":"x2303",
+"isFolder":{"opened":true},
+"title":"Cache Poisoning",
+"children":[{
+"key":"x2301",
+"isFolder":{"opened":false},
+"title":"D N S Cache Poisoning"
+}, {
+"key":"x2302",
+"isFolder":{"opened":false},
+"title":"A R P Cache Poisoning"
+}]
+}, {
+"key":"x2304",
+"isFolder":{"opened":false},
+"title":"Phishing"
+}, {
+"key":"x2305",
+"isFolder":{"opened":false},
+"title":"D N S Spoofing"
+}, {
+"key":"x2306",
+"isFolder":{"opened":false},
+"title":"Man In The Middle"
+}, {
+"key":"x2308",
+"isFolder":{"opened":true},
+"title":"Session Hijacking",
+"children":[{
+"key":"x2307",
+"isFolder":{"opened":false},
+"title":"I P Splicing"
+}]
+}, {
+"key":"x2309",
+"isFolder":{"opened":false},
+"title":"Routing Table Poisoning Through Link"
+}, {
+"key":"x2310",
+"isFolder":{"opened":false},
+"title":"I P Spoofing"
+}, {
+"key":"x2311",
+"isFolder":{"opened":false},
+"title":"Smurf"
+}, {
+"key":"x2312",
+"isFolder":{"opened":false},
+"title":"Replay"
+}, {
+"key":"x2313",
+"isFolder":{"opened":false},
+"title":"I P Address Spoofing"
+}, {
+"key":"x2345",
+"isFolder":{"opened":true},
+"title":"Malicious Code",
+"children":[{
+"key":"x2314",
+"isFolder":{"opened":false},
+"title":"Trojan Horse"
+}, {
+"key":"x2316",
+"isFolder":{"opened":true},
+"title":"Spyware",
+"children":[{
+"key":"x2315",
+"isFolder":{"opened":false},
+"title":"Keylogger"
+}]
+}, {
+"key":"x2317",
+"isFolder":{"opened":false},
+"title":"Backdoor"
+}, {
+"key":"x2318",
+"isFolder":{"opened":false},
+"title":"Rootkit"
+}, {
+"key":"x2319",
+"isFolder":{"opened":false},
+"title":"Program  Infector"
+}, {
+"key":"x2344",
+"isFolder":{"opened":true},
+"title":"Virus",
+"children":[{
+"key":"x2320",
+"isFolder":{"opened":false},
+"title":"Boot Sector Virus"
+}, {
+"key":"x2321",
+"isFolder":{"opened":false},
+"title":"Elk Cloner"
+}, {
+"key":"x2322",
+"isFolder":{"opened":false},
+"title":"Metamorphic Virus"
+}, {
+"key":"x2328",
+"isFolder":{"opened":true},
+"title":"Computer Virus",
+"children":[{
+"key":"x2323",
+"isFolder":{"opened":false},
+"title":"Payload Computer Virus"
+}, {
+"key":"x2324",
+"isFolder":{"opened":false},
+"title":"Action Phase Computer Virus"
+}, {
+"key":"x2325",
+"isFolder":{"opened":false},
+"title":"Triggering Phase Computer Virus"
+}, {
+"key":"x2326",
+"isFolder":{"opened":false},
+"title":"Dormant Phase Computer Virus"
+}, {
+"key":"x2327",
+"isFolder":{"opened":false},
+"title":"Propagation Phase Computer Virus"
+}]
+}, {
+"key":"x2329",
+"isFolder":{"opened":false},
+"title":"Document Virus"
+}, {
+"key":"x2330",
+"isFolder":{"opened":false},
+"title":"Bacteria"
+}, {
+"key":"x2338",
+"isFolder":{"opened":true},
+"title":"Worm",
+"children":[{
+"key":"x2331",
+"isFolder":{"opened":false},
+"title":"Mydoom"
+}, {
+"key":"x2332",
+"isFolder":{"opened":false},
+"title":"Computer Worm"
+}, {
+"key":"x2333",
+"isFolder":{"opened":false},
+"title":"ILOVEYOU"
+}, {
+"key":"x2334",
+"isFolder":{"opened":false},
+"title":"Email Worm"
+}, {
+"key":"x2335",
+"isFolder":{"opened":false},
+"title":"Rabbit  Worm"
+}, {
+"key":"x2336",
+"isFolder":{"opened":false},
+"title":"Morris  Worm"
+}, {
+"key":"x2337",
+"isFolder":{"opened":false},
+"title":"Conficker"
+}]
+}, {
+"key":"x2339",
+"isFolder":{"opened":false},
+"title":"Macro Virus"
+}, {
+"key":"x2340",
+"isFolder":{"opened":false},
+"title":"Rabbit"
+}, {
+"key":"x2341",
+"isFolder":{"opened":false},
+"title":"Polymorphic Virus"
+}, {
+"key":"x2342",
+"isFolder":{"opened":false},
+"title":"Program Virus"
+}, {
+"key":"x2343",
+"isFolder":{"opened":false},
+"title":"File Virus"
+}]
+}]
+}]
+}, {
+"key":"x2393",
+"isFolder":{"opened":true},
+"title":"Masquerading",
+"children":[{
+"key":"x2347",
+"isFolder":{"opened":false},
+"title":"Packet Mistreatment Link"
+}, {
+"key":"x2350",
+"isFolder":{"opened":true},
+"title":"Cache Poisoning",
+"children":[{
+"key":"x2348",
+"isFolder":{"opened":false},
+"title":"D N S Cache Poisoning"
+}, {
+"key":"x2349",
+"isFolder":{"opened":false},
+"title":"A R P Cache Poisoning"
+}]
+}, {
+"key":"x2351",
+"isFolder":{"opened":false},
+"title":"Phishing"
+}, {
+"key":"x2352",
+"isFolder":{"opened":false},
+"title":"D N S Spoofing"
+}, {
+"key":"x2353",
+"isFolder":{"opened":false},
+"title":"Man In The Middle"
+}, {
+"key":"x2355",
+"isFolder":{"opened":true},
+"title":"Session Hijacking",
+"children":[{
+"key":"x2354",
+"isFolder":{"opened":false},
+"title":"I P Splicing"
+}]
+}, {
+"key":"x2356",
+"isFolder":{"opened":false},
+"title":"Routing Table Poisoning Through Link"
+}, {
+"key":"x2357",
+"isFolder":{"opened":false},
+"title":"I P Spoofing"
+}, {
+"key":"x2358",
+"isFolder":{"opened":false},
+"title":"Smurf"
+}, {
+"key":"x2359",
+"isFolder":{"opened":false},
+"title":"Replay"
+}, {
+"key":"x2360",
+"isFolder":{"opened":false},
+"title":"I P Address Spoofing"
+}, {
+"key":"x2392",
+"isFolder":{"opened":true},
+"title":"Malicious Code",
+"children":[{
+"key":"x2361",
+"isFolder":{"opened":false},
+"title":"Trojan Horse"
+}, {
+"key":"x2363",
+"isFolder":{"opened":true},
+"title":"Spyware",
+"children":[{
+"key":"x2362",
+"isFolder":{"opened":false},
+"title":"Keylogger"
+}]
+}, {
+"key":"x2364",
+"isFolder":{"opened":false},
+"title":"Backdoor"
+}, {
+"key":"x2365",
+"isFolder":{"opened":false},
+"title":"Rootkit"
+}, {
+"key":"x2366",
+"isFolder":{"opened":false},
+"title":"Program  Infector"
+}, {
+"key":"x2391",
+"isFolder":{"opened":true},
+"title":"Virus",
+"children":[{
+"key":"x2367",
+"isFolder":{"opened":false},
+"title":"Boot Sector Virus"
+}, {
+"key":"x2368",
+"isFolder":{"opened":false},
+"title":"Elk Cloner"
+}, {
+"key":"x2369",
+"isFolder":{"opened":false},
+"title":"Metamorphic Virus"
+}, {
+"key":"x2375",
+"isFolder":{"opened":true},
+"title":"Computer Virus",
+"children":[{
+"key":"x2370",
+"isFolder":{"opened":false},
+"title":"Payload Computer Virus"
+}, {
+"key":"x2371",
+"isFolder":{"opened":false},
+"title":"Action Phase Computer Virus"
+}, {
+"key":"x2372",
+"isFolder":{"opened":false},
+"title":"Triggering Phase Computer Virus"
+}, {
+"key":"x2373",
+"isFolder":{"opened":false},
+"title":"Dormant Phase Computer Virus"
+}, {
+"key":"x2374",
+"isFolder":{"opened":false},
+"title":"Propagation Phase Computer Virus"
+}]
+}, {
+"key":"x2376",
+"isFolder":{"opened":false},
+"title":"Document Virus"
+}, {
+"key":"x2377",
+"isFolder":{"opened":false},
+"title":"Bacteria"
+}, {
+"key":"x2385",
+"isFolder":{"opened":true},
+"title":"Worm",
+"children":[{
+"key":"x2378",
+"isFolder":{"opened":false},
+"title":"Mydoom"
+}, {
+"key":"x2379",
+"isFolder":{"opened":false},
+"title":"Computer Worm"
+}, {
+"key":"x2380",
+"isFolder":{"opened":false},
+"title":"ILOVEYOU"
+}, {
+"key":"x2381",
+"isFolder":{"opened":false},
+"title":"Email Worm"
+}, {
+"key":"x2382",
+"isFolder":{"opened":false},
+"title":"Rabbit  Worm"
+}, {
+"key":"x2383",
+"isFolder":{"opened":false},
+"title":"Morris  Worm"
+}, {
+"key":"x2384",
+"isFolder":{"opened":false},
+"title":"Conficker"
+}]
+}, {
+"key":"x2386",
+"isFolder":{"opened":false},
+"title":"Macro Virus"
+}, {
+"key":"x2387",
+"isFolder":{"opened":false},
+"title":"Rabbit"
+}, {
+"key":"x2388",
+"isFolder":{"opened":false},
+"title":"Polymorphic Virus"
+}, {
+"key":"x2389",
+"isFolder":{"opened":false},
+"title":"Program Virus"
+}, {
+"key":"x2390",
+"isFolder":{"opened":false},
+"title":"File Virus"
+}]
+}]
+}]
+}, {
+"key":"x2395",
+"isFolder":{"opened":true},
+"title":"War  Dialer",
+"children":[{
+"key":"x2394",
+"isFolder":{"opened":false},
+"title":"War  Dialing"
+}]
+}, {
+"key":"x2442",
+"isFolder":{"opened":true},
+"title":"Spoofing",
+"children":[{
+"key":"x2396",
+"isFolder":{"opened":false},
+"title":"Packet Mistreatment Link"
+}, {
+"key":"x2399",
+"isFolder":{"opened":true},
+"title":"Cache Poisoning",
+"children":[{
+"key":"x2397",
+"isFolder":{"opened":false},
+"title":"D N S Cache Poisoning"
+}, {
+"key":"x2398",
+"isFolder":{"opened":false},
+"title":"A R P Cache Poisoning"
+}]
+}, {
+"key":"x2400",
+"isFolder":{"opened":false},
+"title":"Phishing"
+}, {
+"key":"x2401",
+"isFolder":{"opened":false},
+"title":"D N S Spoofing"
+}, {
+"key":"x2402",
+"isFolder":{"opened":false},
+"title":"Man In The Middle"
+}, {
+"key":"x2404",
+"isFolder":{"opened":true},
+"title":"Session Hijacking",
+"children":[{
+"key":"x2403",
+"isFolder":{"opened":false},
+"title":"I P Splicing"
+}]
+}, {
+"key":"x2405",
+"isFolder":{"opened":false},
+"title":"Routing Table Poisoning Through Link"
+}, {
+"key":"x2406",
+"isFolder":{"opened":false},
+"title":"I P Spoofing"
+}, {
+"key":"x2407",
+"isFolder":{"opened":false},
+"title":"Smurf"
+}, {
+"key":"x2408",
+"isFolder":{"opened":false},
+"title":"Replay"
+}, {
+"key":"x2409",
+"isFolder":{"opened":false},
+"title":"I P Address Spoofing"
+}, {
+"key":"x2441",
+"isFolder":{"opened":true},
+"title":"Malicious Code",
+"children":[{
+"key":"x2410",
+"isFolder":{"opened":false},
+"title":"Trojan Horse"
+}, {
+"key":"x2412",
+"isFolder":{"opened":true},
+"title":"Spyware",
+"children":[{
+"key":"x2411",
+"isFolder":{"opened":false},
+"title":"Keylogger"
+}]
+}, {
+"key":"x2413",
+"isFolder":{"opened":false},
+"title":"Backdoor"
+}, {
+"key":"x2414",
+"isFolder":{"opened":false},
+"title":"Rootkit"
+}, {
+"key":"x2415",
+"isFolder":{"opened":false},
+"title":"Program  Infector"
+}, {
+"key":"x2440",
+"isFolder":{"opened":true},
+"title":"Virus",
+"children":[{
+"key":"x2416",
+"isFolder":{"opened":false},
+"title":"Boot Sector Virus"
+}, {
+"key":"x2417",
+"isFolder":{"opened":false},
+"title":"Elk Cloner"
+}, {
+"key":"x2418",
+"isFolder":{"opened":false},
+"title":"Metamorphic Virus"
+}, {
+"key":"x2424",
+"isFolder":{"opened":true},
+"title":"Computer Virus",
+"children":[{
+"key":"x2419",
+"isFolder":{"opened":false},
+"title":"Payload Computer Virus"
+}, {
+"key":"x2420",
+"isFolder":{"opened":false},
+"title":"Action Phase Computer Virus"
+}, {
+"key":"x2421",
+"isFolder":{"opened":false},
+"title":"Triggering Phase Computer Virus"
+}, {
+"key":"x2422",
+"isFolder":{"opened":false},
+"title":"Dormant Phase Computer Virus"
+}, {
+"key":"x2423",
+"isFolder":{"opened":false},
+"title":"Propagation Phase Computer Virus"
+}]
+}, {
+"key":"x2425",
+"isFolder":{"opened":false},
+"title":"Document Virus"
+}, {
+"key":"x2426",
+"isFolder":{"opened":false},
+"title":"Bacteria"
+}, {
+"key":"x2434",
+"isFolder":{"opened":true},
+"title":"Worm",
+"children":[{
+"key":"x2427",
+"isFolder":{"opened":false},
+"title":"Mydoom"
+}, {
+"key":"x2428",
+"isFolder":{"opened":false},
+"title":"Computer Worm"
+}, {
+"key":"x2429",
+"isFolder":{"opened":false},
+"title":"ILOVEYOU"
+}, {
+"key":"x2430",
+"isFolder":{"opened":false},
+"title":"Email Worm"
+}, {
+"key":"x2431",
+"isFolder":{"opened":false},
+"title":"Rabbit  Worm"
+}, {
+"key":"x2432",
+"isFolder":{"opened":false},
+"title":"Morris  Worm"
+}, {
+"key":"x2433",
+"isFolder":{"opened":false},
+"title":"Conficker"
+}]
+}, {
+"key":"x2435",
+"isFolder":{"opened":false},
+"title":"Macro Virus"
+}, {
+"key":"x2436",
+"isFolder":{"opened":false},
+"title":"Rabbit"
+}, {
+"key":"x2437",
+"isFolder":{"opened":false},
+"title":"Polymorphic Virus"
+}, {
+"key":"x2438",
+"isFolder":{"opened":false},
+"title":"Program Virus"
+}, {
+"key":"x2439",
+"isFolder":{"opened":false},
+"title":"File Virus"
+}]
+}]
+}]
+}, {
+"key":"x2451",
+"isFolder":{"opened":true},
+"title":"DOS",
+"children":[{
+"key":"x2443",
+"isFolder":{"opened":false},
+"title":"Stack Attack"
+}, {
+"key":"x2446",
+"isFolder":{"opened":true},
+"title":"Internet Infrastructure Denial Of Service",
+"children":[{
+"key":"x2444",
+"isFolder":{"opened":false},
+"title":"Do S  I C M P"
+}, {
+"key":"x2445",
+"isFolder":{"opened":false},
+"title":"Do S  T C P"
+}]
+}, {
+"key":"x2447",
+"isFolder":{"opened":false},
+"title":"Smurf"
+}, {
+"key":"x2448",
+"isFolder":{"opened":false},
+"title":"Flooding"
+}, {
+"key":"x2449",
+"isFolder":{"opened":false},
+"title":"Window Attack"
+}, {
+"key":"x2450",
+"isFolder":{"opened":false},
+"title":"Distributed Denial Of Service"
+}]
+}, {
+"key":"x2452",
+"isFolder":{"opened":false},
+"title":"N A K Attack"
+}, {
+"key":"x2468",
+"isFolder":{"opened":true},
+"title":"Internet Infrastructure Attack",
+"children":[{
+"key":"x2455",
+"isFolder":{"opened":true},
+"title":"Packet Mistreatment",
+"children":[{
+"key":"x2453",
+"isFolder":{"opened":false},
+"title":"Packet Mistreatment Link"
+}, {
+"key":"x2454",
+"isFolder":{"opened":false},
+"title":"Packet Mistreatment Router"
+}]
+}, {
+"key":"x2458",
+"isFolder":{"opened":true},
+"title":"Internet Infrastructure Denial Of Service",
+"children":[{
+"key":"x2456",
+"isFolder":{"opened":false},
+"title":"Do S  I C M P"
+}, {
+"key":"x2457",
+"isFolder":{"opened":false},
+"title":"Do S  T C P"
+}]
+}, {
+"key":"x2464",
+"isFolder":{"opened":true},
+"title":"D N S Hacking",
+"children":[{
+"key":"x2461",
+"isFolder":{"opened":true},
+"title":"Cache Poisoning",
+"children":[{
+"key":"x2459",
+"isFolder":{"opened":false},
+"title":"D N S Cache Poisoning"
+}, {
+"key":"x2460",
+"isFolder":{"opened":false},
+"title":"A R P Cache Poisoning"
+}]
+}, {
+"key":"x2462",
+"isFolder":{"opened":false},
+"title":"D N S Spoofing"
+}, {
+"key":"x2463",
+"isFolder":{"opened":false},
+"title":"D N S Server Compromising"
+}]
+}, {
+"key":"x2467",
+"isFolder":{"opened":true},
+"title":"Routing Table Poisoning",
+"children":[{
+"key":"x2465",
+"isFolder":{"opened":false},
+"title":"Routing Table Poisoning Through Router"
+}, {
+"key":"x2466",
+"isFolder":{"opened":false},
+"title":"Routing Table Poisoning Through Link"
+}]
+}]
+}, {
+"key":"x2471",
+"isFolder":{"opened":true},
+"title":"Usurpation",
+"children":[{
+"key":"x2470",
+"isFolder":{"opened":true},
+"title":"Host Compromising",
+"children":[{
+"key":"x2469",
+"isFolder":{"opened":false},
+"title":"D N S Server Compromising"
+}]
+}]
+}, {
+"key":"x2486",
+"isFolder":{"opened":true},
+"title":"Malformed Input",
+"children":[{
+"key":"x2479",
+"isFolder":{"opened":true},
+"title":"Code Injection",
+"children":[{
+"key":"x2472",
+"isFolder":{"opened":false},
+"title":"H T M L Script Injection"
+}, {
+"key":"x2473",
+"isFolder":{"opened":false},
+"title":"Cross Site Scripting"
+}, {
+"key":"x2474",
+"isFolder":{"opened":false},
+"title":"Shell Injection"
+}, {
+"key":"x2476",
+"isFolder":{"opened":true},
+"title":"S Q L Injection",
+"children":[{
+"key":"x2475",
+"isFolder":{"opened":false},
+"title":"Blind S Q L Injection"
+}]
+}, {
+"key":"x2477",
+"isFolder":{"opened":false},
+"title":"P H P Injection"
+}, {
+"key":"x2478",
+"isFolder":{"opened":false},
+"title":"XSS"
+}]
+}, {
+"key":"x2480",
+"isFolder":{"opened":false},
+"title":"Format String Attack"
+}, {
+"key":"x2485",
+"isFolder":{"opened":true},
+"title":"Buffer Overflow",
+"children":[{
+"key":"x2481",
+"isFolder":{"opened":false},
+"title":"Heap Overflow"
+}, {
+"key":"x2482",
+"isFolder":{"opened":false},
+"title":"Integer Overflow"
+}, {
+"key":"x2483",
+"isFolder":{"opened":false},
+"title":"Ping Of Death"
+}, {
+"key":"x2484",
+"isFolder":{"opened":false},
+"title":"Stack Overflow"
+}]
+}]
+}, {
+"key":"x2487",
+"isFolder":{"opened":false},
+"title":"Spam"
+}, {
+"key":"x2488",
+"isFolder":{"opened":false},
+"title":"System Modification"
+}, {
+"key":"x2498",
+"isFolder":{"opened":true},
+"title":"Disruption",
+"children":[{
+"key":"x2490",
+"isFolder":{"opened":true},
+"title":"Host Compromising",
+"children":[{
+"key":"x2489",
+"isFolder":{"opened":false},
+"title":"D N S Server Compromising"
+}]
+}, {
+"key":"x2495",
+"isFolder":{"opened":true},
+"title":"Physical Threat",
+"children":[{
+"key":"x2492",
+"isFolder":{"opened":true},
+"title":"Heat",
+"children":[{
+"key":"x2491",
+"isFolder":{"opened":false},
+"title":"Switching Off Fan"
+}]
+}, {
+"key":"x2493",
+"isFolder":{"opened":false},
+"title":"Theft"
+}, {
+"key":"x2494",
+"isFolder":{"opened":false},
+"title":"Damage"
+}]
+}, {
+"key":"x2497",
+"isFolder":{"opened":true},
+"title":"Active Hardware Misuse",
+"children":[{
+"key":"x2496",
+"isFolder":{"opened":false},
+"title":"Overclocking"
+}]
+}]
+}, {
+"key":"x2499",
+"isFolder":{"opened":false},
+"title":"Ping  Scan"
+}, {
+"key":"x2500",
+"isFolder":{"opened":false},
+"title":"Port  Scan"
+}, {
+"key":"x2503",
+"isFolder":{"opened":true},
+"title":"Bypassing Intended Controls",
+"children":[{
+"key":"x2501",
+"isFolder":{"opened":false},
+"title":"Tiny Fragment Attack"
+}, {
+"key":"x2502",
+"isFolder":{"opened":false},
+"title":"Source Routing Attack"
+}]
+}, {
+"key":"x2504",
+"isFolder":{"opened":false},
+"title":"War  Driving"
+}, {
+"key":"x2551",
+"isFolder":{"opened":true},
+"title":"Impersonation",
+"children":[{
+"key":"x2505",
+"isFolder":{"opened":false},
+"title":"Packet Mistreatment Link"
+}, {
+"key":"x2508",
+"isFolder":{"opened":true},
+"title":"Cache Poisoning",
+"children":[{
+"key":"x2506",
+"isFolder":{"opened":false},
+"title":"D N S Cache Poisoning"
+}, {
+"key":"x2507",
+"isFolder":{"opened":false},
+"title":"A R P Cache Poisoning"
+}]
+}, {
+"key":"x2509",
+"isFolder":{"opened":false},
+"title":"Phishing"
+}, {
+"key":"x2510",
+"isFolder":{"opened":false},
+"title":"D N S Spoofing"
+}, {
+"key":"x2511",
+"isFolder":{"opened":false},
+"title":"Man In The Middle"
+}, {
+"key":"x2513",
+"isFolder":{"opened":true},
+"title":"Session Hijacking",
+"children":[{
+"key":"x2512",
+"isFolder":{"opened":false},
+"title":"I P Splicing"
+}]
+}, {
+"key":"x2514",
+"isFolder":{"opened":false},
+"title":"Routing Table Poisoning Through Link"
+}, {
+"key":"x2515",
+"isFolder":{"opened":false},
+"title":"I P Spoofing"
+}, {
+"key":"x2516",
+"isFolder":{"opened":false},
+"title":"Smurf"
+}, {
+"key":"x2517",
+"isFolder":{"opened":false},
+"title":"Replay"
+}, {
+"key":"x2518",
+"isFolder":{"opened":false},
+"title":"I P Address Spoofing"
+}, {
+"key":"x2550",
+"isFolder":{"opened":true},
+"title":"Malicious Code",
+"children":[{
+"key":"x2519",
+"isFolder":{"opened":false},
+"title":"Trojan Horse"
+}, {
+"key":"x2521",
+"isFolder":{"opened":true},
+"title":"Spyware",
+"children":[{
+"key":"x2520",
+"isFolder":{"opened":false},
+"title":"Keylogger"
+}]
+}, {
+"key":"x2522",
+"isFolder":{"opened":false},
+"title":"Backdoor"
+}, {
+"key":"x2523",
+"isFolder":{"opened":false},
+"title":"Rootkit"
+}, {
+"key":"x2524",
+"isFolder":{"opened":false},
+"title":"Program  Infector"
+}, {
+"key":"x2549",
+"isFolder":{"opened":true},
+"title":"Virus",
+"children":[{
+"key":"x2525",
+"isFolder":{"opened":false},
+"title":"Boot Sector Virus"
+}, {
+"key":"x2526",
+"isFolder":{"opened":false},
+"title":"Elk Cloner"
+}, {
+"key":"x2527",
+"isFolder":{"opened":false},
+"title":"Metamorphic Virus"
+}, {
+"key":"x2533",
+"isFolder":{"opened":true},
+"title":"Computer Virus",
+"children":[{
+"key":"x2528",
+"isFolder":{"opened":false},
+"title":"Payload Computer Virus"
+}, {
+"key":"x2529",
+"isFolder":{"opened":false},
+"title":"Action Phase Computer Virus"
+}, {
+"key":"x2530",
+"isFolder":{"opened":false},
+"title":"Triggering Phase Computer Virus"
+}, {
+"key":"x2531",
+"isFolder":{"opened":false},
+"title":"Dormant Phase Computer Virus"
+}, {
+"key":"x2532",
+"isFolder":{"opened":false},
+"title":"Propagation Phase Computer Virus"
+}]
+}, {
+"key":"x2534",
+"isFolder":{"opened":false},
+"title":"Document Virus"
+}, {
+"key":"x2535",
+"isFolder":{"opened":false},
+"title":"Bacteria"
+}, {
+"key":"x2543",
+"isFolder":{"opened":true},
+"title":"Worm",
+"children":[{
+"key":"x2536",
+"isFolder":{"opened":false},
+"title":"Mydoom"
+}, {
+"key":"x2537",
+"isFolder":{"opened":false},
+"title":"Computer Worm"
+}, {
+"key":"x2538",
+"isFolder":{"opened":false},
+"title":"ILOVEYOU"
+}, {
+"key":"x2539",
+"isFolder":{"opened":false},
+"title":"Email Worm"
+}, {
+"key":"x2540",
+"isFolder":{"opened":false},
+"title":"Rabbit  Worm"
+}, {
+"key":"x2541",
+"isFolder":{"opened":false},
+"title":"Morris  Worm"
+}, {
+"key":"x2542",
+"isFolder":{"opened":false},
+"title":"Conficker"
+}]
+}, {
+"key":"x2544",
+"isFolder":{"opened":false},
+"title":"Macro Virus"
+}, {
+"key":"x2545",
+"isFolder":{"opened":false},
+"title":"Rabbit"
+}, {
+"key":"x2546",
+"isFolder":{"opened":false},
+"title":"Polymorphic Virus"
+}, {
+"key":"x2547",
+"isFolder":{"opened":false},
+"title":"Program Virus"
+}, {
+"key":"x2548",
+"isFolder":{"opened":false},
+"title":"File Virus"
+}]
+}]
+}]
+}, {
+"key":"x2552",
+"isFolder":{"opened":false},
+"title":"Dumpster  Diving"
+}, {
+"key":"x2553",
+"isFolder":{"opened":false},
+"title":"Poison  Reverse"
+}]
+}, {
+"key":"x2555",
+"isFolder":{"opened":false},
+"title":"Account  Harvesting"
+}, {
+"key":"x2556",
+"isFolder":{"opened":false},
+"title":"Pharming"
+}, {
+"key":"x2557",
+"isFolder":{"opened":false},
+"title":"Defacement"
+}, {
+"key":"x2558",
+"isFolder":{"opened":false},
+"title":"Information  Warfare"
+}, {
+"key":"x2559",
+"isFolder":{"opened":false},
+"title":"Return To Libc Attack"
+}, {
+"key":"x2560",
+"isFolder":{"opened":false},
+"title":"Chosen Plaintext Attack"
+}, {
+"key":"x2561",
+"isFolder":{"opened":false},
+"title":"Replay Attacks"
+}, {
+"key":"x2577",
+"isFolder":{"opened":true},
+"title":"Disclosure",
+"children":[{
+"key":"x2565",
+"isFolder":{"opened":true},
+"title":"Eavesdropping",
+"children":[{
+"key":"x2562",
+"isFolder":{"opened":false},
+"title":"Password Sniffing"
+}, {
+"key":"x2564",
+"isFolder":{"opened":true},
+"title":"Traffic Analysis",
+"children":[{
+"key":"x2563",
+"isFolder":{"opened":false},
+"title":"Ingress  Filtering"
+}]
+}]
+}, {
+"key":"x2566",
+"isFolder":{"opened":false},
+"title":"Full Disclosure"
+}, {
+"key":"x2570",
+"isFolder":{"opened":true},
+"title":"Side Channel Attack",
+"children":[{
+"key":"x2567",
+"isFolder":{"opened":false},
+"title":"Power Monitoring Attack"
+}, {
+"key":"x2568",
+"isFolder":{"opened":false},
+"title":"Radiation Monitoring"
+}, {
+"key":"x2569",
+"isFolder":{"opened":false},
+"title":"Timing Attack"
+}]
+}, {
+"key":"x2571",
+"isFolder":{"opened":false},
+"title":"Emanations  Analysis"
+}, {
+"key":"x2572",
+"isFolder":{"opened":false},
+"title":"Responsible Disclosure"
+}, {
+"key":"x2574",
+"isFolder":{"opened":true},
+"title":"System Mapping",
+"children":[{
+"key":"x2573",
+"isFolder":{"opened":false},
+"title":"Vulnerability Scanner"
+}]
+}, {
+"key":"x2575",
+"isFolder":{"opened":false},
+"title":"Statistical Attack"
+}, {
+"key":"x2576",
+"isFolder":{"opened":false},
+"title":"Scavenging"
+}]
+}, {
+"key":"x2578",
+"isFolder":{"opened":false},
+"title":"Zero Day Attack"
+}, {
+"key":"x2579",
+"isFolder":{"opened":false},
+"title":"Overload"
+}, {
+"key":"x2580",
+"isFolder":{"opened":false},
+"title":"Corruption"
+}, {
+"key":"x2581",
+"isFolder":{"opened":false},
+"title":"Homeograph Attack"
+}, {
+"key":"x2582",
+"isFolder":{"opened":false},
+"title":"Distributed  Scans"
+}, {
+"key":"x2583",
+"isFolder":{"opened":false},
+"title":"Chosen Ciphertext Attack"
+}, {
+"key":"x2584",
+"isFolder":{"opened":false},
+"title":"Login Attack"
+}, {
+"key":"x2585",
+"isFolder":{"opened":false},
+"title":"Adaptive Chosen Plaintext Attack"
+}, {
+"key":"x2586",
+"isFolder":{"opened":false},
+"title":"Fault Attacks"
+}, {
+"key":"x2587",
+"isFolder":{"opened":false},
+"title":"Offline Chosen Plaintext Attack"
+}, {
+"key":"x2588",
+"isFolder":{"opened":false},
+"title":"Tamper"
+}, {
+"key":"x2589",
+"isFolder":{"opened":false},
+"title":"Brute  Force  A T T A C K"
+}, {
+"key":"x2590",
+"isFolder":{"opened":false},
+"title":"Cold Boot Attack"
+}, {
+"key":"x2591",
+"isFolder":{"opened":false},
+"title":"Interface Attacks"
+}]
+}, {
+"key":"x3035",
+"isFolder":{"opened":true},
+"title":"Countermeasure",
+"children":[{
+"key":"x2593",
+"isFolder":{"opened":false},
+"title":"Malware Countermeasures"
+}, {
+"key":"x2594",
+"isFolder":{"opened":false},
+"title":"Memory Protection"
+}, {
+"key":"x2595",
+"isFolder":{"opened":false},
+"title":"Polyinstantiation"
+}, {
+"key":"x2596",
+"isFolder":{"opened":false},
+"title":"Patch"
+}, {
+"key":"x2597",
+"isFolder":{"opened":false},
+"title":"Honey Pot"
+}, {
+"key":"x2598",
+"isFolder":{"opened":false},
+"title":"Source Code Analysis"
+}, {
+"key":"x2604",
+"isFolder":{"opened":true},
+"title":"Security Hardware",
+"children":[{
+"key":"x2599",
+"isFolder":{"opened":false},
+"title":"Dongle"
+}, {
+"key":"x2600",
+"isFolder":{"opened":false},
+"title":"Physical Security"
+}, {
+"key":"x2601",
+"isFolder":{"opened":false},
+"title":"Smart Card"
+}, {
+"key":"x2602",
+"isFolder":{"opened":false},
+"title":"Encryption Hardware"
+}, {
+"key":"x2603",
+"isFolder":{"opened":false},
+"title":"Degausser"
+}]
+}, {
+"key":"x2622",
+"isFolder":{"opened":true},
+"title":"Login System",
+"children":[{
+"key":"x2616",
+"isFolder":{"opened":true},
+"title":"Biometric Authentication System",
+"children":[{
+"key":"x2607",
+"isFolder":{"opened":true},
+"title":"Behavioural Biometric Recognition",
+"children":[{
+"key":"x2605",
+"isFolder":{"opened":false},
+"title":"Gait Recognition"
+}, {
+"key":"x2606",
+"isFolder":{"opened":false},
+"title":"Voice Recognition"
+}]
+}, {
+"key":"x2614",
+"isFolder":{"opened":true},
+"title":"Physical Biometric Recognition",
+"children":[{
+"key":"x2609",
+"isFolder":{"opened":true},
+"title":"Facial Pattern Recognition",
+"children":[{
+"key":"x2608",
+"isFolder":{"opened":false},
+"title":"Pretexting"
+}]
+}, {
+"key":"x2610",
+"isFolder":{"opened":false},
+"title":"Hand Measurement Recognition"
+}, {
+"key":"x2611",
+"isFolder":{"opened":false},
+"title":"Fingerprint Recognition"
+}, {
+"key":"x2612",
+"isFolder":{"opened":false},
+"title":"Iris Recognition"
+}, {
+"key":"x2613",
+"isFolder":{"opened":false},
+"title":"Retina Recognition"
+}]
+}, {
+"key":"x2615",
+"isFolder":{"opened":false},
+"title":"Biometric"
+}]
+}, {
+"key":"x2617",
+"isFolder":{"opened":false},
+"title":"Null  Session"
+}, {
+"key":"x2621",
+"isFolder":{"opened":true},
+"title":"Single Sign On System",
+"children":[{
+"key":"x2618",
+"isFolder":{"opened":false},
+"title":"Kerberos Architecture"
+}, {
+"key":"x2619",
+"isFolder":{"opened":false},
+"title":"Liberty Framework"
+}, {
+"key":"x2620",
+"isFolder":{"opened":false},
+"title":"M S Passport"
+}]
+}]
+}, {
+"key":"x2625",
+"isFolder":{"opened":true},
+"title":"Technology Mistakenly Used As Countermeasure",
+"children":[{
+"key":"x2623",
+"isFolder":{"opened":false},
+"title":"Network Address Translation"
+}, {
+"key":"x2624",
+"isFolder":{"opened":false},
+"title":"NAT"
+}]
+}, {
+"key":"x2712",
+"isFolder":{"opened":true},
+"title":"Cryptography",
+"children":[{
+"key":"x2626",
+"isFolder":{"opened":false},
+"title":"Publickey Cryptography"
+}, {
+"key":"x2627",
+"isFolder":{"opened":false},
+"title":"One  Way  Encryption"
+}, {
+"key":"x2676",
+"isFolder":{"opened":true},
+"title":"Encryption Algorithm",
+"children":[{
+"key":"x2631",
+"isFolder":{"opened":true},
+"title":"Stream Cipher",
+"children":[{
+"key":"x2628",
+"isFolder":{"opened":false},
+"title":"RC4"
+}, {
+"key":"x2629",
+"isFolder":{"opened":false},
+"title":"CSS"
+}, {
+"key":"x2630",
+"isFolder":{"opened":false},
+"title":"Content Scramble System"
+}]
+}, {
+"key":"x2646",
+"isFolder":{"opened":true},
+"title":"Block Cipher",
+"children":[{
+"key":"x2632",
+"isFolder":{"opened":false},
+"title":"DES"
+}, {
+"key":"x2633",
+"isFolder":{"opened":false},
+"title":"Advanced Encryption Standard"
+}, {
+"key":"x2634",
+"isFolder":{"opened":false},
+"title":"AES"
+}, {
+"key":"x2635",
+"isFolder":{"opened":false},
+"title":"Blowfish"
+}, {
+"key":"x2636",
+"isFolder":{"opened":false},
+"title":"Data Encryption Standard"
+}, {
+"key":"x2640",
+"isFolder":{"opened":true},
+"title":"3DES",
+"children":[{
+"key":"x2637",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2638",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2639",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}, {
+"key":"x2641",
+"isFolder":{"opened":false},
+"title":"Skipjack"
+}, {
+"key":"x2645",
+"isFolder":{"opened":true},
+"title":"Triple D E S",
+"children":[{
+"key":"x2642",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2643",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2644",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}]
+}, {
+"key":"x2659",
+"isFolder":{"opened":true},
+"title":"Public  Key Encryption",
+"children":[{
+"key":"x2648",
+"isFolder":{"opened":true},
+"title":"Rivestshamiradleman Cryptosystem",
+"children":[{
+"key":"x2647",
+"isFolder":{"opened":false},
+"title":"R S A Signature"
+}]
+}, {
+"key":"x2649",
+"isFolder":{"opened":false},
+"title":"El Gamal Algorithm"
+}, {
+"key":"x2651",
+"isFolder":{"opened":true},
+"title":"RSA",
+"children":[{
+"key":"x2650",
+"isFolder":{"opened":false},
+"title":"R S A Signature"
+}]
+}, {
+"key":"x2658",
+"isFolder":{"opened":true},
+"title":"Elliptic Curve Cryptography",
+"children":[{
+"key":"x2652",
+"isFolder":{"opened":false},
+"title":"Unicity Distance"
+}, {
+"key":"x2654",
+"isFolder":{"opened":true},
+"title":"Cryptosystem",
+"children":[{
+"key":"x2653",
+"isFolder":{"opened":false},
+"title":"Public Key Cryptosystem"
+}]
+}, {
+"key":"x2655",
+"isFolder":{"opened":false},
+"title":"Initialization Vector"
+}, {
+"key":"x2656",
+"isFolder":{"opened":false},
+"title":"Plaintext"
+}, {
+"key":"x2657",
+"isFolder":{"opened":false},
+"title":"Ciphertext"
+}]
+}]
+}, {
+"key":"x2675",
+"isFolder":{"opened":true},
+"title":"Symmetric Algorithm",
+"children":[{
+"key":"x2660",
+"isFolder":{"opened":false},
+"title":"RC4"
+}, {
+"key":"x2661",
+"isFolder":{"opened":false},
+"title":"DES"
+}, {
+"key":"x2662",
+"isFolder":{"opened":false},
+"title":"Advanced Encryption Standard"
+}, {
+"key":"x2663",
+"isFolder":{"opened":false},
+"title":"AES"
+}, {
+"key":"x2664",
+"isFolder":{"opened":false},
+"title":"Blowfish"
+}, {
+"key":"x2665",
+"isFolder":{"opened":false},
+"title":"Data Encryption Standard"
+}, {
+"key":"x2669",
+"isFolder":{"opened":true},
+"title":"3DES",
+"children":[{
+"key":"x2666",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2667",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2668",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}, {
+"key":"x2670",
+"isFolder":{"opened":false},
+"title":"Skipjack"
+}, {
+"key":"x2674",
+"isFolder":{"opened":true},
+"title":"Triple D E S",
+"children":[{
+"key":"x2671",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2672",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2673",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}]
+}]
+}, {
+"key":"x2677",
+"isFolder":{"opened":false},
+"title":"Asymmetric  Cryptography"
+}, {
+"key":"x2678",
+"isFolder":{"opened":false},
+"title":"Cryptographic Compression Function"
+}, {
+"key":"x2680",
+"isFolder":{"opened":true},
+"title":"Steganography",
+"children":[{
+"key":"x2679",
+"isFolder":{"opened":false},
+"title":"Steganalysis"
+}]
+}, {
+"key":"x2681",
+"isFolder":{"opened":false},
+"title":"Symmetric Cryptography"
+}, {
+"key":"x2682",
+"isFolder":{"opened":false},
+"title":"Hybrid  Encryption"
+}, {
+"key":"x2683",
+"isFolder":{"opened":false},
+"title":"Cryptographic Attacks"
+}, {
+"key":"x2684",
+"isFolder":{"opened":false},
+"title":"Pretty Good Privacy"
+}, {
+"key":"x2685",
+"isFolder":{"opened":false},
+"title":"Encrypted Virus"
+}, {
+"key":"x2687",
+"isFolder":{"opened":true},
+"title":"WEP",
+"children":[{
+"key":"x2686",
+"isFolder":{"opened":false},
+"title":"W E P Key"
+}]
+}, {
+"key":"x2688",
+"isFolder":{"opened":false},
+"title":"Differential Privacy"
+}, {
+"key":"x2689",
+"isFolder":{"opened":false},
+"title":"Digital  Envelope"
+}, {
+"key":"x2705",
+"isFolder":{"opened":true},
+"title":"Signature Algorithm",
+"children":[{
+"key":"x2695",
+"isFolder":{"opened":true},
+"title":"M A C Algorithm",
+"children":[{
+"key":"x2692",
+"isFolder":{"opened":true},
+"title":"RIPE-MAC",
+"children":[{
+"key":"x2690",
+"isFolder":{"opened":false},
+"title":"RIPE-MAC1"
+}, {
+"key":"x2691",
+"isFolder":{"opened":false},
+"title":"RIPE-MAC3"
+}]
+}, {
+"key":"x2693",
+"isFolder":{"opened":false},
+"title":"CBC-MAC"
+}, {
+"key":"x2694",
+"isFolder":{"opened":false},
+"title":"HMAC"
+}]
+}, {
+"key":"x2696",
+"isFolder":{"opened":false},
+"title":"One  Way  Function"
+}, {
+"key":"x2704",
+"isFolder":{"opened":true},
+"title":"Cryptographic Hash Function",
+"children":[{
+"key":"x2697",
+"isFolder":{"opened":false},
+"title":"DSA"
+}, {
+"key":"x2698",
+"isFolder":{"opened":false},
+"title":"RIPE-MD-160"
+}, {
+"key":"x2699",
+"isFolder":{"opened":false},
+"title":"El Gamal Signature Scheme"
+}, {
+"key":"x2700",
+"isFolder":{"opened":false},
+"title":"SHA-1"
+}, {
+"key":"x2701",
+"isFolder":{"opened":false},
+"title":"MD5"
+}, {
+"key":"x2702",
+"isFolder":{"opened":false},
+"title":"MD2"
+}, {
+"key":"x2703",
+"isFolder":{"opened":false},
+"title":"MD4"
+}]
+}]
+}, {
+"key":"x2707",
+"isFolder":{"opened":true},
+"title":"Wired Equivalent Privacy",
+"children":[{
+"key":"x2706",
+"isFolder":{"opened":false},
+"title":"W E P Key"
+}]
+}, {
+"key":"x2708",
+"isFolder":{"opened":false},
+"title":"Cryptanalysis"
+}, {
+"key":"x2709",
+"isFolder":{"opened":false},
+"title":"PGP"
+}, {
+"key":"x2711",
+"isFolder":{"opened":true},
+"title":"Checksum Algorithm",
+"children":[{
+"key":"x2710",
+"isFolder":{"opened":false},
+"title":"Cyclic  Redundancy Check"
+}]
+}]
+}, {
+"key":"x2726",
+"isFolder":{"opened":true},
+"title":"Checksum",
+"children":[{
+"key":"x2716",
+"isFolder":{"opened":true},
+"title":"MAC",
+"children":[{
+"key":"x2713",
+"isFolder":{"opened":false},
+"title":"Approximate Message Authentication Code"
+}, {
+"key":"x2714",
+"isFolder":{"opened":false},
+"title":"AMAC"
+}, {
+"key":"x2715",
+"isFolder":{"opened":false},
+"title":"Hashed Message Authentication Code"
+}]
+}, {
+"key":"x2720",
+"isFolder":{"opened":true},
+"title":"Digital Signing",
+"children":[{
+"key":"x2717",
+"isFolder":{"opened":false},
+"title":"Code Signing"
+}, {
+"key":"x2719",
+"isFolder":{"opened":true},
+"title":"Signing With Certificate",
+"children":[{
+"key":"x2718",
+"isFolder":{"opened":false},
+"title":"Signing With X.509 Certificate"
+}]
+}]
+}, {
+"key":"x2724",
+"isFolder":{"opened":true},
+"title":"Message Authentication Code",
+"children":[{
+"key":"x2721",
+"isFolder":{"opened":false},
+"title":"Approximate Message Authentication Code"
+}, {
+"key":"x2722",
+"isFolder":{"opened":false},
+"title":"AMAC"
+}, {
+"key":"x2723",
+"isFolder":{"opened":false},
+"title":"Hashed Message Authentication Code"
+}]
+}, {
+"key":"x2725",
+"isFolder":{"opened":false},
+"title":"C R C32 Checksum"
+}]
+}, {
+"key":"x2766",
+"isFolder":{"opened":true},
+"title":"Secure Network Communication",
+"children":[{
+"key":"x2730",
+"isFolder":{"opened":true},
+"title":"Internet  Protocol",
+"children":[{
+"key":"x2727",
+"isFolder":{"opened":false},
+"title":"Point To Point Tunelling Protocol"
+}, {
+"key":"x2728",
+"isFolder":{"opened":false},
+"title":"Multi Cast"
+}, {
+"key":"x2729",
+"isFolder":{"opened":false},
+"title":"Point To Point Protocol"
+}]
+}, {
+"key":"x2731",
+"isFolder":{"opened":false},
+"title":"Traffic Padding"
+}, {
+"key":"x2732",
+"isFolder":{"opened":false},
+"title":"VPN"
+}, {
+"key":"x2733",
+"isFolder":{"opened":false},
+"title":"Full  Duplex"
+}, {
+"key":"x2734",
+"isFolder":{"opened":false},
+"title":"Secure Socket Layer"
+}, {
+"key":"x2735",
+"isFolder":{"opened":false},
+"title":"P3P"
+}, {
+"key":"x2736",
+"isFolder":{"opened":false},
+"title":"DNSSEC"
+}, {
+"key":"x2737",
+"isFolder":{"opened":false},
+"title":"SOCKS"
+}, {
+"key":"x2738",
+"isFolder":{"opened":false},
+"title":"I P Sec"
+}, {
+"key":"x2739",
+"isFolder":{"opened":false},
+"title":"SAML"
+}, {
+"key":"x2740",
+"isFolder":{"opened":false},
+"title":"Network Address Translation"
+}, {
+"key":"x2741",
+"isFolder":{"opened":false},
+"title":"X.509"
+}, {
+"key":"x2742",
+"isFolder":{"opened":false},
+"title":"Onion Router"
+}, {
+"key":"x2743",
+"isFolder":{"opened":false},
+"title":"S-MIME"
+}, {
+"key":"x2744",
+"isFolder":{"opened":false},
+"title":"Socket  Pair"
+}, {
+"key":"x2745",
+"isFolder":{"opened":false},
+"title":"Kerberos Authentication Protocol"
+}, {
+"key":"x2746",
+"isFolder":{"opened":false},
+"title":"SSL"
+}, {
+"key":"x2747",
+"isFolder":{"opened":false},
+"title":"Virtual Private Networking"
+}, {
+"key":"x2748",
+"isFolder":{"opened":false},
+"title":"SSH"
+}, {
+"key":"x2752",
+"isFolder":{"opened":true},
+"title":"HTTPS",
+"children":[{
+"key":"x2749",
+"isFolder":{"opened":false},
+"title":"Hypertext  Markup  Language"
+}, {
+"key":"x2750",
+"isFolder":{"opened":false},
+"title":"H T T P  Proxy"
+}, {
+"key":"x2751",
+"isFolder":{"opened":false},
+"title":"Hyperlink"
+}]
+}, {
+"key":"x2756",
+"isFolder":{"opened":true},
+"title":"Hypertext Transfer Protocol",
+"children":[{
+"key":"x2753",
+"isFolder":{"opened":false},
+"title":"Hypertext  Markup  Language"
+}, {
+"key":"x2754",
+"isFolder":{"opened":false},
+"title":"H T T P  Proxy"
+}, {
+"key":"x2755",
+"isFolder":{"opened":false},
+"title":"Hyperlink"
+}]
+}, {
+"key":"x2757",
+"isFolder":{"opened":false},
+"title":"Open P G P"
+}, {
+"key":"x2758",
+"isFolder":{"opened":false},
+"title":"Firefly"
+}, {
+"key":"x2759",
+"isFolder":{"opened":false},
+"title":"S-HTTP"
+}, {
+"key":"x2760",
+"isFolder":{"opened":false},
+"title":"NAT"
+}, {
+"key":"x2761",
+"isFolder":{"opened":false},
+"title":"Transport  Layer  Security"
+}, {
+"key":"x2764",
+"isFolder":{"opened":true},
+"title":"Remailer",
+"children":[{
+"key":"x2762",
+"isFolder":{"opened":false},
+"title":"SMTP"
+}, {
+"key":"x2763",
+"isFolder":{"opened":false},
+"title":"Simple Mail Transfer Protocol"
+}]
+}, {
+"key":"x2765",
+"isFolder":{"opened":false},
+"title":"Secure Shell"
+}]
+}, {
+"key":"x2804",
+"isFolder":{"opened":true},
+"title":"Monitoring",
+"children":[{
+"key":"x2767",
+"isFolder":{"opened":false},
+"title":"Promiscuous  Mode"
+}, {
+"key":"x2768",
+"isFolder":{"opened":false},
+"title":"Video Monitoring"
+}, {
+"key":"x2770",
+"isFolder":{"opened":true},
+"title":"Log Monitoring",
+"children":[{
+"key":"x2769",
+"isFolder":{"opened":false},
+"title":"Source Code Auditing"
+}]
+}, {
+"key":"x2772",
+"isFolder":{"opened":true},
+"title":"Logging",
+"children":[{
+"key":"x2771",
+"isFolder":{"opened":false},
+"title":"Source Code Auditing"
+}]
+}, {
+"key":"x2774",
+"isFolder":{"opened":true},
+"title":"Auditing",
+"children":[{
+"key":"x2773",
+"isFolder":{"opened":false},
+"title":"Source Code Auditing"
+}]
+}, {
+"key":"x2782",
+"isFolder":{"opened":true},
+"title":"Firewall",
+"children":[{
+"key":"x2775",
+"isFolder":{"opened":false},
+"title":"Stateless Firewall"
+}, {
+"key":"x2776",
+"isFolder":{"opened":false},
+"title":"Stateful Firewall"
+}, {
+"key":"x2777",
+"isFolder":{"opened":false},
+"title":"Application Level Gateway"
+}, {
+"key":"x2779",
+"isFolder":{"opened":true},
+"title":"Packet Filter",
+"children":[{
+"key":"x2778",
+"isFolder":{"opened":false},
+"title":"Stateful Inspection Packet Filter"
+}]
+}, {
+"key":"x2780",
+"isFolder":{"opened":false},
+"title":"Circuit Level Gateway"
+}, {
+"key":"x2781",
+"isFolder":{"opened":false},
+"title":"Applicationlayer Firewall"
+}]
+}, {
+"key":"x2783",
+"isFolder":{"opened":false},
+"title":"Signals  Analysis"
+}, {
+"key":"x2784",
+"isFolder":{"opened":false},
+"title":"E Mail Filter"
+}, {
+"key":"x2802",
+"isFolder":{"opened":true},
+"title":"Intrusion Detection System",
+"children":[{
+"key":"x2787",
+"isFolder":{"opened":true},
+"title":"By Usage Frequency",
+"children":[{
+"key":"x2785",
+"isFolder":{"opened":false},
+"title":"Continuous Intrusion Detection System"
+}, {
+"key":"x2786",
+"isFolder":{"opened":false},
+"title":"Periodic Intrusion Detection System"
+}]
+}, {
+"key":"x2788",
+"isFolder":{"opened":false},
+"title":"Network  Based  I D S"
+}, {
+"key":"x2793",
+"isFolder":{"opened":true},
+"title":"By Detection Method",
+"children":[{
+"key":"x2789",
+"isFolder":{"opened":false},
+"title":"Misuse Detection System"
+}, {
+"key":"x2790",
+"isFolder":{"opened":false},
+"title":"Anomaly Detection System"
+}, {
+"key":"x2791",
+"isFolder":{"opened":false},
+"title":"Behaviour  Based Intrusion Detection System"
+}, {
+"key":"x2792",
+"isFolder":{"opened":false},
+"title":"Knowledge  Based Intrusion Detection System"
+}]
+}, {
+"key":"x2798",
+"isFolder":{"opened":true},
+"title":"By Audit Source Location",
+"children":[{
+"key":"x2795",
+"isFolder":{"opened":true},
+"title":"Host  Based Intrusion Detection System",
+"children":[{
+"key":"x2794",
+"isFolder":{"opened":false},
+"title":"Tripwire"
+}]
+}, {
+"key":"x2797",
+"isFolder":{"opened":true},
+"title":"Network  Based Intrusion Detection System",
+"children":[{
+"key":"x2796",
+"isFolder":{"opened":false},
+"title":"Snort"
+}]
+}]
+}, {
+"key":"x2801",
+"isFolder":{"opened":true},
+"title":"By Behaviour On Detection",
+"children":[{
+"key":"x2799",
+"isFolder":{"opened":false},
+"title":"Passive Intrusion Detection System"
+}, {
+"key":"x2800",
+"isFolder":{"opened":false},
+"title":"Active Intrusion Detection System"
+}]
+}]
+}, {
+"key":"x2803",
+"isFolder":{"opened":false},
+"title":"Anti  Virus Software"
+}]
+}, {
+"key":"x2805",
+"isFolder":{"opened":false},
+"title":"Hardening"
+}, {
+"key":"x2819",
+"isFolder":{"opened":true},
+"title":"Message Digest",
+"children":[{
+"key":"x2809",
+"isFolder":{"opened":true},
+"title":"MAC",
+"children":[{
+"key":"x2806",
+"isFolder":{"opened":false},
+"title":"Approximate Message Authentication Code"
+}, {
+"key":"x2807",
+"isFolder":{"opened":false},
+"title":"AMAC"
+}, {
+"key":"x2808",
+"isFolder":{"opened":false},
+"title":"Hashed Message Authentication Code"
+}]
+}, {
+"key":"x2813",
+"isFolder":{"opened":true},
+"title":"Digital Signing",
+"children":[{
+"key":"x2810",
+"isFolder":{"opened":false},
+"title":"Code Signing"
+}, {
+"key":"x2812",
+"isFolder":{"opened":true},
+"title":"Signing With Certificate",
+"children":[{
+"key":"x2811",
+"isFolder":{"opened":false},
+"title":"Signing With X.509 Certificate"
+}]
+}]
+}, {
+"key":"x2817",
+"isFolder":{"opened":true},
+"title":"Message Authentication Code",
+"children":[{
+"key":"x2814",
+"isFolder":{"opened":false},
+"title":"Approximate Message Authentication Code"
+}, {
+"key":"x2815",
+"isFolder":{"opened":false},
+"title":"AMAC"
+}, {
+"key":"x2816",
+"isFolder":{"opened":false},
+"title":"Hashed Message Authentication Code"
+}]
+}, {
+"key":"x2818",
+"isFolder":{"opened":false},
+"title":"C R C32 Checksum"
+}]
+}, {
+"key":"x2906",
+"isFolder":{"opened":true},
+"title":"Encryption",
+"children":[{
+"key":"x2820",
+"isFolder":{"opened":false},
+"title":"Publickey Cryptography"
+}, {
+"key":"x2821",
+"isFolder":{"opened":false},
+"title":"One  Way  Encryption"
+}, {
+"key":"x2870",
+"isFolder":{"opened":true},
+"title":"Encryption Algorithm",
+"children":[{
+"key":"x2825",
+"isFolder":{"opened":true},
+"title":"Stream Cipher",
+"children":[{
+"key":"x2822",
+"isFolder":{"opened":false},
+"title":"RC4"
+}, {
+"key":"x2823",
+"isFolder":{"opened":false},
+"title":"CSS"
+}, {
+"key":"x2824",
+"isFolder":{"opened":false},
+"title":"Content Scramble System"
+}]
+}, {
+"key":"x2840",
+"isFolder":{"opened":true},
+"title":"Block Cipher",
+"children":[{
+"key":"x2826",
+"isFolder":{"opened":false},
+"title":"DES"
+}, {
+"key":"x2827",
+"isFolder":{"opened":false},
+"title":"Advanced Encryption Standard"
+}, {
+"key":"x2828",
+"isFolder":{"opened":false},
+"title":"AES"
+}, {
+"key":"x2829",
+"isFolder":{"opened":false},
+"title":"Blowfish"
+}, {
+"key":"x2830",
+"isFolder":{"opened":false},
+"title":"Data Encryption Standard"
+}, {
+"key":"x2834",
+"isFolder":{"opened":true},
+"title":"3DES",
+"children":[{
+"key":"x2831",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2832",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2833",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}, {
+"key":"x2835",
+"isFolder":{"opened":false},
+"title":"Skipjack"
+}, {
+"key":"x2839",
+"isFolder":{"opened":true},
+"title":"Triple D E S",
+"children":[{
+"key":"x2836",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2837",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2838",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}]
+}, {
+"key":"x2853",
+"isFolder":{"opened":true},
+"title":"Public  Key Encryption",
+"children":[{
+"key":"x2842",
+"isFolder":{"opened":true},
+"title":"Rivestshamiradleman Cryptosystem",
+"children":[{
+"key":"x2841",
+"isFolder":{"opened":false},
+"title":"R S A Signature"
+}]
+}, {
+"key":"x2843",
+"isFolder":{"opened":false},
+"title":"El Gamal Algorithm"
+}, {
+"key":"x2845",
+"isFolder":{"opened":true},
+"title":"RSA",
+"children":[{
+"key":"x2844",
+"isFolder":{"opened":false},
+"title":"R S A Signature"
+}]
+}, {
+"key":"x2852",
+"isFolder":{"opened":true},
+"title":"Elliptic Curve Cryptography",
+"children":[{
+"key":"x2846",
+"isFolder":{"opened":false},
+"title":"Unicity Distance"
+}, {
+"key":"x2848",
+"isFolder":{"opened":true},
+"title":"Cryptosystem",
+"children":[{
+"key":"x2847",
+"isFolder":{"opened":false},
+"title":"Public Key Cryptosystem"
+}]
+}, {
+"key":"x2849",
+"isFolder":{"opened":false},
+"title":"Initialization Vector"
+}, {
+"key":"x2850",
+"isFolder":{"opened":false},
+"title":"Plaintext"
+}, {
+"key":"x2851",
+"isFolder":{"opened":false},
+"title":"Ciphertext"
+}]
+}]
+}, {
+"key":"x2869",
+"isFolder":{"opened":true},
+"title":"Symmetric Algorithm",
+"children":[{
+"key":"x2854",
+"isFolder":{"opened":false},
+"title":"RC4"
+}, {
+"key":"x2855",
+"isFolder":{"opened":false},
+"title":"DES"
+}, {
+"key":"x2856",
+"isFolder":{"opened":false},
+"title":"Advanced Encryption Standard"
+}, {
+"key":"x2857",
+"isFolder":{"opened":false},
+"title":"AES"
+}, {
+"key":"x2858",
+"isFolder":{"opened":false},
+"title":"Blowfish"
+}, {
+"key":"x2859",
+"isFolder":{"opened":false},
+"title":"Data Encryption Standard"
+}, {
+"key":"x2863",
+"isFolder":{"opened":true},
+"title":"3DES",
+"children":[{
+"key":"x2860",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2861",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2862",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}, {
+"key":"x2864",
+"isFolder":{"opened":false},
+"title":"Skipjack"
+}, {
+"key":"x2868",
+"isFolder":{"opened":true},
+"title":"Triple D E S",
+"children":[{
+"key":"x2865",
+"isFolder":{"opened":false},
+"title":"_3TDES"
+}, {
+"key":"x2866",
+"isFolder":{"opened":false},
+"title":"_2TDES"
+}, {
+"key":"x2867",
+"isFolder":{"opened":false},
+"title":"TDES-EDE"
+}]
+}]
+}]
+}, {
+"key":"x2871",
+"isFolder":{"opened":false},
+"title":"Asymmetric  Cryptography"
+}, {
+"key":"x2872",
+"isFolder":{"opened":false},
+"title":"Cryptographic Compression Function"
+}, {
+"key":"x2874",
+"isFolder":{"opened":true},
+"title":"Steganography",
+"children":[{
+"key":"x2873",
+"isFolder":{"opened":false},
+"title":"Steganalysis"
+}]
+}, {
+"key":"x2875",
+"isFolder":{"opened":false},
+"title":"Symmetric Cryptography"
+}, {
+"key":"x2876",
+"isFolder":{"opened":false},
+"title":"Hybrid  Encryption"
+}, {
+"key":"x2877",
+"isFolder":{"opened":false},
+"title":"Cryptographic Attacks"
+}, {
+"key":"x2878",
+"isFolder":{"opened":false},
+"title":"Pretty Good Privacy"
+}, {
+"key":"x2879",
+"isFolder":{"opened":false},
+"title":"Encrypted Virus"
+}, {
+"key":"x2881",
+"isFolder":{"opened":true},
+"title":"WEP",
+"children":[{
+"key":"x2880",
+"isFolder":{"opened":false},
+"title":"W E P Key"
+}]
+}, {
+"key":"x2882",
+"isFolder":{"opened":false},
+"title":"Differential Privacy"
+}, {
+"key":"x2883",
+"isFolder":{"opened":false},
+"title":"Digital  Envelope"
+}, {
+"key":"x2899",
+"isFolder":{"opened":true},
+"title":"Signature Algorithm",
+"children":[{
+"key":"x2889",
+"isFolder":{"opened":true},
+"title":"M A C Algorithm",
+"children":[{
+"key":"x2886",
+"isFolder":{"opened":true},
+"title":"RIPE-MAC",
+"children":[{
+"key":"x2884",
+"isFolder":{"opened":false},
+"title":"RIPE-MAC1"
+}, {
+"key":"x2885",
+"isFolder":{"opened":false},
+"title":"RIPE-MAC3"
+}]
+}, {
+"key":"x2887",
+"isFolder":{"opened":false},
+"title":"CBC-MAC"
+}, {
+"key":"x2888",
+"isFolder":{"opened":false},
+"title":"HMAC"
+}]
+}, {
+"key":"x2890",
+"isFolder":{"opened":false},
+"title":"One  Way  Function"
+}, {
+"key":"x2898",
+"isFolder":{"opened":true},
+"title":"Cryptographic Hash Function",
+"children":[{
+"key":"x2891",
+"isFolder":{"opened":false},
+"title":"DSA"
+}, {
+"key":"x2892",
+"isFolder":{"opened":false},
+"title":"RIPE-MD-160"
+}, {
+"key":"x2893",
+"isFolder":{"opened":false},
+"title":"El Gamal Signature Scheme"
+}, {
+"key":"x2894",
+"isFolder":{"opened":false},
+"title":"SHA-1"
+}, {
+"key":"x2895",
+"isFolder":{"opened":false},
+"title":"MD5"
+}, {
+"key":"x2896",
+"isFolder":{"opened":false},
+"title":"MD2"
+}, {
+"key":"x2897",
+"isFolder":{"opened":false},
+"title":"MD4"
+}]
+}]
+}, {
+"key":"x2901",
+"isFolder":{"opened":true},
+"title":"Wired Equivalent Privacy",
+"children":[{
+"key":"x2900",
+"isFolder":{"opened":false},
+"title":"W E P Key"
+}]
+}, {
+"key":"x2902",
+"isFolder":{"opened":false},
+"title":"Cryptanalysis"
+}, {
+"key":"x2903",
+"isFolder":{"opened":false},
+"title":"PGP"
+}, {
+"key":"x2905",
+"isFolder":{"opened":true},
+"title":"Checksum Algorithm",
+"children":[{
+"key":"x2904",
+"isFolder":{"opened":false},
+"title":"Cyclic  Redundancy Check"
+}]
+}]
+}, {
+"key":"x2907",
+"isFolder":{"opened":false},
+"title":"Emissions Security"
+}, {
+"key":"x2908",
+"isFolder":{"opened":false},
+"title":"Backup"
+}, {
+"key":"x2942",
+"isFolder":{"opened":true},
+"title":"Access Control",
+"children":[{
+"key":"x2909",
+"isFolder":{"opened":false},
+"title":"Access  Matrix"
+}, {
+"key":"x2910",
+"isFolder":{"opened":false},
+"title":"RADIUS"
+}, {
+"key":"x2911",
+"isFolder":{"opened":false},
+"title":"List  Based  Access  Control"
+}, {
+"key":"x2912",
+"isFolder":{"opened":false},
+"title":"Access Control Matrix"
+}, {
+"key":"x2913",
+"isFolder":{"opened":false},
+"title":"Extensible  Authentication  Protocol"
+}, {
+"key":"x2916",
+"isFolder":{"opened":true},
+"title":"Authorization",
+"children":[{
+"key":"x2914",
+"isFolder":{"opened":false},
+"title":"CA"
+}, {
+"key":"x2915",
+"isFolder":{"opened":false},
+"title":"Certificate Authority"
+}]
+}, {
+"key":"x2924",
+"isFolder":{"opened":true},
+"title":"Firewall",
+"children":[{
+"key":"x2917",
+"isFolder":{"opened":false},
+"title":"Stateless Firewall"
+}, {
+"key":"x2918",
+"isFolder":{"opened":false},
+"title":"Stateful Firewall"
+}, {
+"key":"x2919",
+"isFolder":{"opened":false},
+"title":"Application Level Gateway"
+}, {
+"key":"x2921",
+"isFolder":{"opened":true},
+"title":"Packet Filter",
+"children":[{
+"key":"x2920",
+"isFolder":{"opened":false},
+"title":"Stateful Inspection Packet Filter"
+}]
+}, {
+"key":"x2922",
+"isFolder":{"opened":false},
+"title":"Circuit Level Gateway"
+}, {
+"key":"x2923",
+"isFolder":{"opened":false},
+"title":"Applicationlayer Firewall"
+}]
+}, {
+"key":"x2925",
+"isFolder":{"opened":false},
+"title":"ACL"
+}, {
+"key":"x2926",
+"isFolder":{"opened":false},
+"title":"Reference Monitor"
+}, {
+"key":"x2927",
+"isFolder":{"opened":false},
+"title":"File Access Control"
+}, {
+"key":"x2928",
+"isFolder":{"opened":false},
+"title":"Access Control Service"
+}, {
+"key":"x2929",
+"isFolder":{"opened":false},
+"title":"E Mail Filter"
+}, {
+"key":"x2930",
+"isFolder":{"opened":false},
+"title":"Separation Of  Duties"
+}, {
+"key":"x2931",
+"isFolder":{"opened":false},
+"title":"Challenge  Handshake  Authentication  Protocol"
+}, {
+"key":"x2932",
+"isFolder":{"opened":false},
+"title":"D B Access Control"
+}, {
+"key":"x2933",
+"isFolder":{"opened":false},
+"title":"Rule  Set  Based  Access  Control"
+}, {
+"key":"x2934",
+"isFolder":{"opened":false},
+"title":"Access Control List"
+}, {
+"key":"x2935",
+"isFolder":{"opened":false},
+"title":"Database Access Control"
+}, {
+"key":"x2936",
+"isFolder":{"opened":false},
+"title":"M A C Address"
+}, {
+"key":"x2940",
+"isFolder":{"opened":true},
+"title":"Java Sandbox",
+"children":[{
+"key":"x2939",
+"isFolder":{"opened":true},
+"title":"Java",
+"children":[{
+"key":"x2937",
+"isFolder":{"opened":false},
+"title":"Javascript"
+}, {
+"key":"x2938",
+"isFolder":{"opened":false},
+"title":"Java Applets"
+}]
+}]
+}, {
+"key":"x2941",
+"isFolder":{"opened":false},
+"title":"Anti  Virus Software"
+}]
+}, {
+"key":"x2943",
+"isFolder":{"opened":false},
+"title":"Decryption"
+}, {
+"key":"x2944",
+"isFolder":{"opened":false},
+"title":"Vulnerability Scanner"
+}, {
+"key":"x2947",
+"isFolder":{"opened":true},
+"title":"Trust Management",
+"children":[{
+"key":"x2945",
+"isFolder":{"opened":false},
+"title":"Policy Maker"
+}, {
+"key":"x2946",
+"isFolder":{"opened":false},
+"title":"Keynote"
+}]
+}, {
+"key":"x3012",
+"isFolder":{"opened":true},
+"title":"Standard",
+"children":[{
+"key":"x2948",
+"isFolder":{"opened":false},
+"title":"Blowfish"
+}, {
+"key":"x2949",
+"isFolder":{"opened":false},
+"title":"Link Layer"
+}, {
+"key":"x2950",
+"isFolder":{"opened":false},
+"title":"P3P"
+}, {
+"key":"x2951",
+"isFolder":{"opened":false},
+"title":"Global System For Mobile Communications"
+}, {
+"key":"x2952",
+"isFolder":{"opened":false},
+"title":"ISO"
+}, {
+"key":"x2954",
+"isFolder":{"opened":true},
+"title":"OSI",
+"children":[{
+"key":"x2953",
+"isFolder":{"opened":false},
+"title":"O S I Layer"
+}]
+}, {
+"key":"x2955",
+"isFolder":{"opened":false},
+"title":"SAML"
+}, {
+"key":"x2956",
+"isFolder":{"opened":false},
+"title":"Network Address Translation"
+}, {
+"key":"x2957",
+"isFolder":{"opened":false},
+"title":"GSM"
+}, {
+"key":"x2958",
+"isFolder":{"opened":false},
+"title":"IMSI"
+}, {
+"key":"x2959",
+"isFolder":{"opened":false},
+"title":"Common Criteria"
+}, {
+"key":"x2960",
+"isFolder":{"opened":false},
+"title":"Federal Information Processing Standardization"
+}, {
+"key":"x2961",
+"isFolder":{"opened":false},
+"title":"Internet  Message  Access  Protocol"
+}, {
+"key":"x2962",
+"isFolder":{"opened":false},
+"title":"AES"
+}, {
+"key":"x2963",
+"isFolder":{"opened":false},
+"title":"S-MIME"
+}, {
+"key":"x2964",
+"isFolder":{"opened":false},
+"title":"FIPS"
+}, {
+"key":"x2968",
+"isFolder":{"opened":true},
+"title":"Hypertext Transfer Protocol",
+"children":[{
+"key":"x2965",
+"isFolder":{"opened":false},
+"title":"Hypertext  Markup  Language"
+}, {
+"key":"x2966",
+"isFolder":{"opened":false},
+"title":"H T T P  Proxy"
+}, {
+"key":"x2967",
+"isFolder":{"opened":false},
+"title":"Hyperlink"
+}]
+}, {
+"key":"x2969",
+"isFolder":{"opened":false},
+"title":"Trusted Computer System Evaluation Criteria"
+}, {
+"key":"x2970",
+"isFolder":{"opened":false},
+"title":"Internet  Standard"
+}, {
+"key":"x2973",
+"isFolder":{"opened":true},
+"title":"Ethernet",
+"children":[{
+"key":"x2971",
+"isFolder":{"opened":false},
+"title":"Network Segment"
+}, {
+"key":"x2972",
+"isFolder":{"opened":false},
+"title":"National  Institute Of Standard And  Technology"
+}]
+}, {
+"key":"x2978",
+"isFolder":{"opened":true},
+"title":"Internet",
+"children":[{
+"key":"x2974",
+"isFolder":{"opened":false},
+"title":"World Wide Web"
+}, {
+"key":"x2975",
+"isFolder":{"opened":false},
+"title":"Uniform Resource Locator"
+}, {
+"key":"x2976",
+"isFolder":{"opened":false},
+"title":"Uniform Resource Identifier"
+}, {
+"key":"x2977",
+"isFolder":{"opened":false},
+"title":"Web Server"
+}]
+}, {
+"key":"x2979",
+"isFolder":{"opened":false},
+"title":"DSA"
+}, {
+"key":"x2980",
+"isFolder":{"opened":false},
+"title":"User Datagram Protocol"
+}, {
+"key":"x2981",
+"isFolder":{"opened":false},
+"title":"International Organization For Standardization"
+}, {
+"key":"x2982",
+"isFolder":{"opened":false},
+"title":"Secure Socket Layer"
+}, {
+"key":"x2983",
+"isFolder":{"opened":false},
+"title":"DNSSEC"
+}, {
+"key":"x2984",
+"isFolder":{"opened":false},
+"title":"RC4"
+}, {
+"key":"x2985",
+"isFolder":{"opened":false},
+"title":"TCSEC"
+}, {
+"key":"x2986",
+"isFolder":{"opened":false},
+"title":"I P Sec"
+}, {
+"key":"x2987",
+"isFolder":{"opened":false},
+"title":"SHA-1"
+}, {
+"key":"x2988",
+"isFolder":{"opened":false},
+"title":"UDP"
+}, {
+"key":"x2989",
+"isFolder":{"opened":false},
+"title":"X.509"
+}, {
+"key":"x2991",
+"isFolder":{"opened":true},
+"title":"Ephemeral  Port",
+"children":[{
+"key":"x2990",
+"isFolder":{"opened":false},
+"title":"Exterior  Gateway  Protocol"
+}]
+}, {
+"key":"x2992",
+"isFolder":{"opened":false},
+"title":"DES"
+}, {
+"key":"x2993",
+"isFolder":{"opened":false},
+"title":"Advanced Encryption Standard"
+}, {
+"key":"x2994",
+"isFolder":{"opened":false},
+"title":"Border  Gateway  Protocol"
+}, {
+"key":"x2995",
+"isFolder":{"opened":false},
+"title":"Data Encryption Standard"
+}, {
+"key":"x2996",
+"isFolder":{"opened":false},
+"title":"Kerberos Authentication Protocol"
+}, {
+"key":"x2997",
+"isFolder":{"opened":false},
+"title":"SSL"
+}, {
+"key":"x2998",
+"isFolder":{"opened":false},
+"title":"SSH"
+}, {
+"key":"x3002",
+"isFolder":{"opened":true},
+"title":"HTTPS",
+"children":[{
+"key":"x2999",
+"isFolder":{"opened":false},
+"title":"Hypertext  Markup  Language"
+}, {
+"key":"x3000",
+"isFolder":{"opened":false},
+"title":"H T T P  Proxy"
+}, {
+"key":"x3001",
+"isFolder":{"opened":false},
+"title":"Hyperlink"
+}]
+}, {
+"key":"x3003",
+"isFolder":{"opened":false},
+"title":"International Mobile Subscriber Identity"
+}, {
+"key":"x3004",
+"isFolder":{"opened":false},
+"title":"Open P G P"
+}, {
+"key":"x3005",
+"isFolder":{"opened":false},
+"title":"ITU-T"
+}, {
+"key":"x3006",
+"isFolder":{"opened":false},
+"title":"Firefly"
+}, {
+"key":"x3007",
+"isFolder":{"opened":false},
+"title":"MD5"
+}, {
+"key":"x3008",
+"isFolder":{"opened":false},
+"title":"NAT"
+}, {
+"key":"x3009",
+"isFolder":{"opened":false},
+"title":"S-HTTP"
+}, {
+"key":"x3010",
+"isFolder":{"opened":false},
+"title":"MD2"
+}, {
+"key":"x3011",
+"isFolder":{"opened":false},
+"title":"Secure Shell"
+}]
+}, {
+"key":"x3032",
+"isFolder":{"opened":true},
+"title":"Key Management",
+"children":[{
+"key":"x3013",
+"isFolder":{"opened":false},
+"title":"Web Of Trust"
+}, {
+"key":"x3016",
+"isFolder":{"opened":true},
+"title":"PKI",
+"children":[{
+"key":"x3014",
+"isFolder":{"opened":false},
+"title":"Open P G P"
+}, {
+"key":"x3015",
+"isFolder":{"opened":false},
+"title":"X.509"
+}]
+}, {
+"key":"x3017",
+"isFolder":{"opened":false},
+"title":"Root Certificate"
+}, {
+"key":"x3018",
+"isFolder":{"opened":false},
+"title":"Key Distribution"
+}, {
+"key":"x3022",
+"isFolder":{"opened":true},
+"title":"Digital Signature",
+"children":[{
+"key":"x3019",
+"isFolder":{"opened":false},
+"title":"DST"
+}, {
+"key":"x3020",
+"isFolder":{"opened":false},
+"title":"Triple  Wrapped"
+}, {
+"key":"x3021",
+"isFolder":{"opened":false},
+"title":"Digital Signature Transponder"
+}]
+}, {
+"key":"x3031",
+"isFolder":{"opened":true},
+"title":"Key Exchange",
+"children":[{
+"key":"x3023",
+"isFolder":{"opened":false},
+"title":"IKE"
+}, {
+"key":"x3024",
+"isFolder":{"opened":false},
+"title":"Internet Key Exchange"
+}, {
+"key":"x3025",
+"isFolder":{"opened":false},
+"title":"Oakley"
+}, {
+"key":"x3026",
+"isFolder":{"opened":false},
+"title":"Diffie Hellman"
+}, {
+"key":"x3029",
+"isFolder":{"opened":true},
+"title":"Key Exchange Protocol",
+"children":[{
+"key":"x3027",
+"isFolder":{"opened":false},
+"title":"DH"
+}, {
+"key":"x3028",
+"isFolder":{"opened":false},
+"title":"Diffie Hellman Key Exchange Protocol"
+}]
+}, {
+"key":"x3030",
+"isFolder":{"opened":false},
+"title":"KEA"
+}]
+}]
+}, {
+"key":"x3034",
+"isFolder":{"opened":true},
+"title":"Sanitizer",
+"children":[{
+"key":"x3033",
+"isFolder":{"opened":false},
+"title":"Degausser"
+}]
+}]
+}, {
+"key":"x3040",
+"isFolder":{"opened":true},
+"title":"Goal",
+"children":[{
+"key":"x3036",
+"isFolder":{"opened":false},
+"title":"Integrity Goals"
+}, {
+"key":"x3037",
+"isFolder":{"opened":false},
+"title":"Confidentiality Goals"
+}, {
+"key":"x3038",
+"isFolder":{"opened":false},
+"title":"Public Key Forward  Secrecy"
+}, {
+"key":"x3039",
+"isFolder":{"opened":false},
+"title":"Authentication Goals"
+}]
+}, {
+"key":"x3067",
+"isFolder":{"opened":true},
+"title":"Model",
+"children":[{
+"key":"x3044",
+"isFolder":{"opened":true},
+"title":"Cryptography Model",
+"children":[{
+"key":"x3042",
+"isFolder":{"opened":true},
+"title":"Discrete Logarithm",
+"children":[{
+"key":"x3041",
+"isFolder":{"opened":false},
+"title":"Elliptic Curve Discrete Logarithm"
+}]
+}, {
+"key":"x3043",
+"isFolder":{"opened":false},
+"title":"Factorisation"
+}]
+}, {
+"key":"x3045",
+"isFolder":{"opened":false},
+"title":"Document Object Model"
+}, {
+"key":"x3053",
+"isFolder":{"opened":true},
+"title":"Access Control Model",
+"children":[{
+"key":"x3046",
+"isFolder":{"opened":false},
+"title":"Mandatory Access Control"
+}, {
+"key":"x3047",
+"isFolder":{"opened":false},
+"title":"Compartmentalisation"
+}, {
+"key":"x3048",
+"isFolder":{"opened":false},
+"title":"Role  Based Access Control"
+}, {
+"key":"x3049",
+"isFolder":{"opened":false},
+"title":"DAC"
+}, {
+"key":"x3050",
+"isFolder":{"opened":false},
+"title":"Least  Privilege"
+}, {
+"key":"x3051",
+"isFolder":{"opened":false},
+"title":"Discretionary Access Control"
+}, {
+"key":"x3052",
+"isFolder":{"opened":false},
+"title":"RBAC"
+}]
+}, {
+"key":"x3054",
+"isFolder":{"opened":false},
+"title":"Relational Database"
+}, {
+"key":"x3055",
+"isFolder":{"opened":false},
+"title":"Measure Of  Effectiveness"
+}, {
+"key":"x3056",
+"isFolder":{"opened":false},
+"title":"Multilevel Security"
+}, {
+"key":"x3060",
+"isFolder":{"opened":true},
+"title":"Bell La Padula Model",
+"children":[{
+"key":"x3057",
+"isFolder":{"opened":false},
+"title":"Simple  Integrity  Property"
+}, {
+"key":"x3058",
+"isFolder":{"opened":false},
+"title":"Strong  Star  Property"
+}, {
+"key":"x3059",
+"isFolder":{"opened":false},
+"title":"Star  Property"
+}]
+}, {
+"key":"x3061",
+"isFolder":{"opened":false},
+"title":"Brewer And Nash Model"
+}, {
+"key":"x3062",
+"isFolder":{"opened":false},
+"title":"DOM"
+}, {
+"key":"x3063",
+"isFolder":{"opened":false},
+"title":"Chinese Wall Model"
+}, {
+"key":"x3064",
+"isFolder":{"opened":false},
+"title":"Biba Model"
+}, {
+"key":"x3065",
+"isFolder":{"opened":false},
+"title":"Low Watermark Model"
+}, {
+"key":"x3066",
+"isFolder":{"opened":false},
+"title":"Clark Wilson Model"
+}]
+}, {
+"key":"x3098",
+"isFolder":{"opened":true},
+"title":"Product",
+"children":[{
+"key":"x3070",
+"isFolder":{"opened":true},
+"title":"DBMS",
+"children":[{
+"key":"x3068",
+"isFolder":{"opened":false},
+"title":"Data  Warehousing"
+}, {
+"key":"x3069",
+"isFolder":{"opened":false},
+"title":"Root Zone Database"
+}]
+}, {
+"key":"x3073",
+"isFolder":{"opened":true},
+"title":"Database",
+"children":[{
+"key":"x3071",
+"isFolder":{"opened":false},
+"title":"Data  Warehousing"
+}, {
+"key":"x3072",
+"isFolder":{"opened":false},
+"title":"Root Zone Database"
+}]
+}, {
+"key":"x3095",
+"isFolder":{"opened":true},
+"title":"Operating System",
+"children":[{
+"key":"x3075",
+"isFolder":{"opened":true},
+"title":"Memory Management Operating System",
+"children":[{
+"key":"x3074",
+"isFolder":{"opened":false},
+"title":"Memory Management"
+}]
+}, {
+"key":"x3076",
+"isFolder":{"opened":false},
+"title":"Filesystem Operating System"
+}, {
+"key":"x3077",
+"isFolder":{"opened":false},
+"title":"Interrupt"
+}, {
+"key":"x3078",
+"isFolder":{"opened":false},
+"title":"Processes Operating System"
+}, {
+"key":"x3079",
+"isFolder":{"opened":false},
+"title":"GNU"
+}, {
+"key":"x3080",
+"isFolder":{"opened":false},
+"title":"Filesystem Security Operating System"
+}, {
+"key":"x3085",
+"isFolder":{"opened":true},
+"title":"Windows",
+"children":[{
+"key":"x3081",
+"isFolder":{"opened":false},
+"title":"Windows Registry"
+}, {
+"key":"x3082",
+"isFolder":{"opened":false},
+"title":"D L L Injection"
+}, {
+"key":"x3084",
+"isFolder":{"opened":true},
+"title":"Microsoft Windows",
+"children":[{
+"key":"x3083",
+"isFolder":{"opened":false},
+"title":"Microsoft"
+}]
+}]
+}, {
+"key":"x3086",
+"isFolder":{"opened":false},
+"title":"Device Driver Operating System"
+}, {
+"key":"x3087",
+"isFolder":{"opened":false},
+"title":"Kernel Operating System"
+}, {
+"key":"x3088",
+"isFolder":{"opened":false},
+"title":"Loadable  Kernel  Modules"
+}, {
+"key":"x3089",
+"isFolder":{"opened":false},
+"title":"Concepts Operating System"
+}, {
+"key":"x3091",
+"isFolder":{"opened":true},
+"title":"Unix",
+"children":[{
+"key":"x3090",
+"isFolder":{"opened":false},
+"title":"Cron"
+}]
+}, {
+"key":"x3092",
+"isFolder":{"opened":false},
+"title":"Mac O S"
+}, {
+"key":"x3093",
+"isFolder":{"opened":false},
+"title":"Daemons Operating System"
+}, {
+"key":"x3094",
+"isFolder":{"opened":false},
+"title":"Security Operating System"
+}]
+}, {
+"key":"x3097",
+"isFolder":{"opened":true},
+"title":"Editor",
+"children":[{
+"key":"x3096",
+"isFolder":{"opened":false},
+"title":"M S  Word"
+}]
+}]
+}, {
+"key":"x3110",
+"isFolder":{"opened":true},
+"title":"User",
+"children":[{
+"key":"x3099",
+"isFolder":{"opened":false},
+"title":"Private User"
+}, {
+"key":"x3100",
+"isFolder":{"opened":false},
+"title":"Data  Owner"
+}, {
+"key":"x3101",
+"isFolder":{"opened":false},
+"title":"Clandestine User"
+}, {
+"key":"x3105",
+"isFolder":{"opened":true},
+"title":"Office User",
+"children":[{
+"key":"x3102",
+"isFolder":{"opened":false},
+"title":"H W Developer"
+}, {
+"key":"x3103",
+"isFolder":{"opened":false},
+"title":"S W Developer"
+}, {
+"key":"x3104",
+"isFolder":{"opened":false},
+"title":"System Administrator"
+}]
+}, {
+"key":"x3108",
+"isFolder":{"opened":true},
+"title":"User I D",
+"children":[{
+"key":"x3106",
+"isFolder":{"opened":false},
+"title":"Effective User I D"
+}, {
+"key":"x3107",
+"isFolder":{"opened":false},
+"title":"Euid"
+}]
+}, {
+"key":"x3109",
+"isFolder":{"opened":false},
+"title":"Userland"
+}]
+}, {
+"key":"x3129",
+"isFolder":{"opened":true},
+"title":"Vulnerability",
+"children":[{
+"key":"x3111",
+"isFolder":{"opened":false},
+"title":"Target Connected To Network"
+}, {
+"key":"x3112",
+"isFolder":{"opened":false},
+"title":"Honey Monkey"
+}, {
+"key":"x3121",
+"isFolder":{"opened":true},
+"title":"Vulnerability In Code",
+"children":[{
+"key":"x3113",
+"isFolder":{"opened":false},
+"title":"Missing Input Validation"
+}, {
+"key":"x3114",
+"isFolder":{"opened":false},
+"title":"Missing Error Handling"
+}, {
+"key":"x3118",
+"isFolder":{"opened":true},
+"title":"Use Of Vulnerable Programming Language",
+"children":[{
+"key":"x3116",
+"isFolder":{"opened":true},
+"title":"Misuse Of Language Construct",
+"children":[{
+"key":"x3115",
+"isFolder":{"opened":false},
+"title":"Format String Misuse"
+}]
+}, {
+"key":"x3117",
+"isFolder":{"opened":false},
+"title":"Natural Language"
+}]
+}, {
+"key":"x3120",
+"isFolder":{"opened":true},
+"title":"Race Condition",
+"children":[{
+"key":"x3119",
+"isFolder":{"opened":false},
+"title":"Time Of Check To Time Of Use"
+}]
+}]
+}, {
+"key":"x3122",
+"isFolder":{"opened":false},
+"title":"Monoculture"
+}, {
+"key":"x3123",
+"isFolder":{"opened":false},
+"title":"Vulnerability In Use"
+}, {
+"key":"x3124",
+"isFolder":{"opened":false},
+"title":"Honey  Client"
+}, {
+"key":"x3128",
+"isFolder":{"opened":true},
+"title":"Vulnerability In Configuration",
+"children":[{
+"key":"x3127",
+"isFolder":{"opened":true},
+"title":"Insecure Default Setting Unchanged",
+"children":[{
+"key":"x3125",
+"isFolder":{"opened":false},
+"title":"Vulnerable Service Starts Automatically"
+}, {
+"key":"x3126",
+"isFolder":{"opened":false},
+"title":"Default Password Unchanged"
+}]
+}]
+}]
+}, {
+"key":"x3130",
+"isFolder":{"opened":false},
+"title":"Asset Life Cycle Phase"
+}, {
+"key":"x3137",
+"isFolder":{"opened":true},
+"title":"Defense Strategy",
+"children":[{
+"key":"x3131",
+"isFolder":{"opened":false},
+"title":"Cold/ Warm/ Hot  Disaster  Recovery  Site"
+}, {
+"key":"x3132",
+"isFolder":{"opened":false},
+"title":"Regression Analysis"
+}, {
+"key":"x3133",
+"isFolder":{"opened":false},
+"title":"Fuzzing"
+}, {
+"key":"x3134",
+"isFolder":{"opened":false},
+"title":"Due  Diligence"
+}, {
+"key":"x3135",
+"isFolder":{"opened":false},
+"title":"British  Standard 7799"
+}, {
+"key":"x3136",
+"isFolder":{"opened":false},
+"title":"Due  Care"
+}]
+}]
+}

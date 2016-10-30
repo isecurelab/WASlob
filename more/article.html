@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="ISO-8859-1">
+		<title>Insert title here</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="google-signin-client_id" content="453642410996-r67jqhkaiqs6lsqhcbqehglvvmcj30ds.apps.googleusercontent.com">
+		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+		<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/css/jasny-bootstrap.min.css">
+		<!-- script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.16/angular.js"></script> -->
+		<script src="../js/url.min.js"></script>
+		<script src="../js/config.js"></script>
+		<script src="../js/url.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jasny-bootstrap/3.1.3/js/jasny-bootstrap.min.js"></script>
+		<script src="../js/searchAutocompleteController.js"></script>
+		<script src="../js/authController.js"></script>
+		<script src="../js/articleController.js"></script>
+		<script src="https://apis.google.com/js/platform.js" async defer></script>
+		<style>
+			body {
+				background-image: url("../img/bg.jpg");
+				background-size: cover;
+				background-position:fixed;
+			}
+			.ui-autocomplete {
+   				max-height: 600px;
+    			overflow-y: auto;   /* prevent horizontal scrollbar */
+    			overflow-x: hidden; /* add padding to account for vertical scrollbar */
+    			z-index:2000 !important;
+			}
+		</style>
+	</head>
+	<body>
+		<nav id="ontologyMenu" class="navmenu navmenu-default navmenu-fixed-left offcanvas" role="navigation">
+<iframe src="../ontologyTree.html" width="100%" height="100%"></iframe>
+</nav>
+		<div class="container">
+			<div class="row">
+				<div class="navbar navbar-default navbar-fixed-top">
+					<div class="container-fluid">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand" href="../index.html"><span><img src="../img/nsf.jpg" width="20px" height="20px"/></span>Security Learning by Ontology Browsing (SLOB)</a>
+						</div>
+						<div id="navbar" class="navbar-collapse collapse">
+							<form action="details.html">
+								<div class="input-group col-md-4 col-sm-4 nav navbar-nav navbar-left navbar-text">
+									<input id="searchField" name="q" class="form-control" type="text"/>
+									<span class="input-group-btn">
+										<button class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+									</span>
+								</div>
+							</form>
+							<ul class="nav navbar-nav navbar-right">
+							
+								<li><a href="#" title="Browse Ontology" data-toggle="offcanvas" data-target="#ontologyMenu" data-canvas="body">Browse</a></li>
+								<li><a href="../about.html" title="Information about the SLOB tool">About</a></li>
+								<li class="dropdown">
+						        	<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Links <span class="caret"></span></a>
+						        	<ul class="dropdown-menu">
+						        		<li><a href="http://soonaechun.org/iSecure/" title="Visit the iSecure homepage">iSecure</a></li>
+						          	</ul>
+						        </li>
+						        <li class="dropdown">
+						        	<span id="authProfileIconSignedOut"><div class="g-signin2" data-onsuccess="onSignIn"></div></span>
+						        	<span id="authProfileIconSignedIn"><img width="50px" id="authProfileIconImage" class="img-circle"/> <span id="authProfileIconEMID"></span></span></a>
+						        </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-3">
+					<div class="panel panel-default">
+						<div class="panel-body">
+							<a class="btn btn-default btn-block">Google Images</a>
+							<a class="btn btn-default btn-block">Articles</a>
+							<a class="btn btn-default btn-block">Youtube Videos</a>
+							<a class="btn btn-default btn-block">Slideshare Slides</a>
+							<a class="btn btn-default btn-block">Google Books</a>
+							<a class="btn btn-default btn-block">Twitter</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-9">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Articles
+								</div>
+								<div class="panel-body" id="articleContainer">
+									<div class="col-md-12" id="articleProg"><img src='img/ajax-loader.gif' ></div>
+								</div>
+								<div class="panel-footer">
+									<a class="btn btn-default" onclick="viewMore('Article')">View more</a>
+								</div>
+							</div>
+				</div>
+			</div>
+		</div>
+		<script>
+			var q = $.url("?q");
+			var loadGoogleLoginPanel = true;
+			initSearchAutocomplete("#searchField", "../");
+
+			loadArticles(q, "../");
+		</script>
+	</body>
+</html>
